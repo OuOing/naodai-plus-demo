@@ -1,0 +1,886 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#f4f3ef" />
+    <meta name="description" content="考研知识的每日短读。" />
+    <title>脑袋加一 · 第 001 期</title>
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%23191a1d'/%3E%3Cpath d='M16 32h32M32 16v32' stroke='%23f4f3ef' stroke-width='6' stroke-linecap='round'/%3E%3Ccircle cx='47' cy='17' r='7' fill='%234e59d9'/%3E%3C/svg%3E" />
+    <style>
+      :root {
+        color-scheme: light;
+        --paper: #f4f3ef;
+        --ink: #191a1d;
+        --muted: #727277;
+        --line: #d9d7d0;
+        --accent: #4e59d9;
+        --accent-soft: #e8e9fb;
+        --success: #23664b;
+        --error: #9a3f36;
+        --serif: ui-serif, "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", serif;
+        --sans: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Noto Sans CJK SC", sans-serif;
+      }
+
+      * { box-sizing: border-box; }
+      html { scroll-behavior: smooth; }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        color: var(--ink);
+        background: #deddd8;
+        font-family: var(--sans);
+        -webkit-font-smoothing: antialiased;
+      }
+
+      button, input { font: inherit; }
+      button { color: inherit; }
+
+      .shell {
+        width: min(100%, 470px);
+        min-height: 100vh;
+        margin: 0 auto;
+        background: var(--paper);
+        position: relative;
+        overflow: hidden;
+        box-shadow: 0 0 50px rgba(31, 31, 34, .10);
+      }
+
+      .topbar {
+        min-height: 72px;
+        padding: calc(18px + env(safe-area-inset-top)) 24px 16px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border-bottom: 1px solid transparent;
+        position: relative;
+        z-index: 5;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: .94rem;
+        font-weight: 650;
+        letter-spacing: .08em;
+      }
+
+      .brand-mark {
+        width: 21px;
+        height: 21px;
+        border: 1.6px solid var(--ink);
+        border-radius: 50%;
+        display: grid;
+        place-items: center;
+        font-size: 1rem;
+        line-height: 1;
+      }
+
+      .menu-button, .close-button {
+        border: 0;
+        background: transparent;
+        padding: 7px 0 7px 12px;
+        font-size: .84rem;
+        cursor: pointer;
+        letter-spacing: .04em;
+      }
+
+      .intro {
+        min-height: calc(100vh - 72px);
+        padding: 32px 24px 34px;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .edition {
+        display: flex;
+        justify-content: space-between;
+        color: var(--muted);
+        font-size: .74rem;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+        padding-bottom: 16px;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .intro-main {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 38px 0 44px;
+      }
+
+      .subject {
+        color: var(--accent);
+        font-weight: 650;
+        font-size: .78rem;
+        letter-spacing: .13em;
+        margin-bottom: 22px;
+      }
+
+      h1 {
+        font-family: var(--serif);
+        font-size: clamp(2.7rem, 12vw, 3.8rem);
+        line-height: 1.1;
+        font-weight: 600;
+        letter-spacing: -.045em;
+        margin: 0;
+        text-wrap: balance;
+      }
+
+      .standfirst {
+        margin: 24px 0 0;
+        max-width: 25rem;
+        font-family: var(--serif);
+        font-size: 1.08rem;
+        line-height: 1.85;
+        color: #45464a;
+      }
+
+      .intro-footer {
+        display: flex;
+        justify-content: flex-end;
+        align-items: end;
+        margin-top: 28px;
+      }
+
+      .time-control {
+        padding: 22px 0 4px;
+        border-top: 1px solid var(--line);
+      }
+
+      .time-head {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 16px;
+      }
+
+      .time-title {
+        font-size: .78rem;
+        font-weight: 650;
+        letter-spacing: .08em;
+      }
+
+      .time-value {
+        color: var(--accent);
+        font-family: var(--serif);
+        font-size: 1.48rem;
+        font-variant-numeric: tabular-nums;
+      }
+
+      .time-value small {
+        margin-left: 3px;
+        font-family: var(--sans);
+        font-size: .72rem;
+      }
+
+      .time-summary {
+        min-height: 22px;
+        margin-top: 8px;
+        color: var(--muted);
+        font-size: .76rem;
+        line-height: 1.55;
+      }
+
+      .time-scale {
+        height: 28px;
+        margin: 18px 9px 0;
+        position: relative;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .time-scale span {
+        position: absolute;
+        bottom: 7px;
+        transform: translateX(-50%);
+        color: var(--muted);
+        font-size: .66rem;
+        font-variant-numeric: tabular-nums;
+      }
+
+      .time-scale span::after {
+        content: "";
+        position: absolute;
+        left: 50%;
+        top: 15px;
+        width: 1px;
+        height: 6px;
+        background: var(--line);
+      }
+
+      #timeRange {
+        display: block;
+        width: 100%;
+        margin: -1px 0 0;
+      }
+
+      .time-extents {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 5px;
+        color: var(--muted);
+        font-size: .66rem;
+      }
+
+      .start-button, .finish-button {
+        border: 0;
+        border-radius: 0;
+        background: var(--ink);
+        color: #fff;
+        min-height: 52px;
+        padding: 0 22px;
+        cursor: pointer;
+        font-weight: 600;
+        letter-spacing: .04em;
+        transition: transform .18s ease, background .18s ease;
+      }
+      .start-button:hover, .finish-button:hover { background: var(--accent); }
+      .start-button:active, .finish-button:active { transform: translateY(1px); }
+
+      .completion-note {
+        display: none;
+        color: var(--success);
+        font-size: .82rem;
+        margin-top: 14px;
+      }
+      .intro.is-complete .completion-note { display: block; }
+
+      .article {
+        display: none;
+        animation: enter .55s cubic-bezier(.2,.8,.2,1) both;
+      }
+      .article.is-visible { display: block; }
+      .intro.is-hidden { display: none; }
+
+      @keyframes enter {
+        from { opacity: 0; transform: translateY(16px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+
+      .reading-progress {
+        position: fixed;
+        top: 0;
+        left: 50%;
+        width: min(100%, 470px);
+        transform: translateX(-50%);
+        height: 2px;
+        z-index: 20;
+        pointer-events: none;
+      }
+      .reading-progress span {
+        display: block;
+        width: 0;
+        height: 100%;
+        background: var(--accent);
+      }
+
+      .article-head {
+        padding: 46px 24px 58px;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .article-kicker {
+        font-size: .75rem;
+        color: var(--accent);
+        font-weight: 650;
+        letter-spacing: .13em;
+        margin-bottom: 20px;
+      }
+
+      .article h2 {
+        margin: 0;
+        font-family: var(--serif);
+        font-size: 2.65rem;
+        line-height: 1.16;
+        letter-spacing: -.035em;
+        font-weight: 600;
+      }
+
+      .article-meta {
+        margin-top: 26px;
+        color: var(--muted);
+        font-size: .78rem;
+        display: flex;
+        align-items: center;
+        gap: 16px;
+      }
+
+      .time-chip {
+        border: 0;
+        border-bottom: 1px solid currentColor;
+        background: transparent;
+        padding: 0 0 2px;
+        color: var(--accent);
+        cursor: pointer;
+        font-size: inherit;
+      }
+
+      .prose {
+        padding: 54px 24px 88px;
+      }
+
+      .prose p {
+        margin: 0 0 1.55em;
+        font-family: var(--serif);
+        font-size: 1.08rem;
+        line-height: 2;
+        letter-spacing: .01em;
+      }
+
+      .lead::first-letter {
+        float: left;
+        font-family: var(--serif);
+        font-size: 4.6rem;
+        line-height: .78;
+        padding: .15em .1em 0 0;
+        color: var(--accent);
+      }
+
+      .section-label {
+        margin: 72px 0 26px;
+        padding-top: 13px;
+        border-top: 1px solid var(--ink);
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        gap: 18px;
+        font-size: .73rem;
+        letter-spacing: .1em;
+        font-weight: 650;
+      }
+
+      .section-label span:last-child {
+        color: var(--muted);
+        font-weight: 400;
+      }
+
+      .formula {
+        margin: 38px -24px;
+        padding: 42px 24px;
+        background: #e9e8e3;
+        text-align: center;
+        font-family: "Times New Roman", serif;
+        font-size: 1.75rem;
+        line-height: 1.6;
+        overflow-x: auto;
+      }
+
+      .formula small {
+        display: block;
+        margin-top: 14px;
+        font-family: var(--sans);
+        font-size: .72rem;
+        color: var(--muted);
+        letter-spacing: .04em;
+      }
+
+      .margin-note {
+        margin: 34px 0;
+        border-left: 3px solid var(--accent);
+        padding: 2px 0 2px 20px;
+        font-family: var(--sans);
+        font-size: .91rem;
+        line-height: 1.75;
+        color: #414246;
+      }
+
+      .experiment {
+        margin: 44px 0;
+        padding: 26px 0 30px;
+        border-top: 1px solid var(--line);
+        border-bottom: 1px solid var(--line);
+      }
+
+      .experiment-head {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        margin-bottom: 24px;
+      }
+
+      .experiment-title { font-weight: 650; font-size: .9rem; }
+      .experiment-value { color: var(--accent); font-variant-numeric: tabular-nums; font-size: .84rem; }
+
+      .number-line {
+        height: 118px;
+        position: relative;
+        margin: 10px 0 18px;
+      }
+
+      .axis {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 62px;
+        height: 1px;
+        background: var(--ink);
+      }
+
+      .zero {
+        position: absolute;
+        left: 0;
+        top: 69px;
+        color: var(--muted);
+        font-size: .72rem;
+      }
+
+      .point {
+        position: absolute;
+        top: 55px;
+        left: 90%;
+        width: 15px;
+        height: 15px;
+        margin-left: -7.5px;
+        border-radius: 50%;
+        background: var(--accent);
+        box-shadow: 0 0 0 7px rgba(78, 89, 217, .12);
+        transition: left .2s ease;
+      }
+
+      .point-label {
+        position: absolute;
+        top: 14px;
+        transform: translateX(-50%);
+        white-space: nowrap;
+        color: var(--accent);
+        font-size: .75rem;
+        transition: left .2s ease;
+      }
+
+      input[type="range"] {
+        width: 100%;
+        accent-color: var(--accent);
+        cursor: pointer;
+      }
+
+      .range-labels {
+        display: flex;
+        justify-content: space-between;
+        color: var(--muted);
+        font-size: .7rem;
+        margin-top: 6px;
+      }
+
+      .question {
+        margin-top: 40px;
+      }
+
+      .question-title {
+        font-family: var(--serif);
+        font-size: 1.18rem;
+        line-height: 1.75;
+        margin-bottom: 24px;
+      }
+
+      .choices {
+        display: grid;
+        gap: 0;
+        border-top: 1px solid var(--line);
+      }
+
+      .choice {
+        border: 0;
+        border-bottom: 1px solid var(--line);
+        background: transparent;
+        padding: 18px 2px;
+        text-align: left;
+        display: grid;
+        grid-template-columns: 28px 1fr;
+        gap: 8px;
+        cursor: pointer;
+        font-family: var(--serif);
+        font-size: 1rem;
+        line-height: 1.6;
+        transition: color .16s ease, padding-left .16s ease;
+      }
+      .choice:hover { color: var(--accent); padding-left: 6px; }
+      .choice[aria-pressed="true"] { color: var(--accent); }
+      .choice.correct { color: var(--success); }
+      .choice.incorrect { color: var(--error); }
+
+      .feedback {
+        min-height: 70px;
+        padding: 20px 0 0;
+        font-size: .86rem;
+        line-height: 1.75;
+        color: var(--muted);
+      }
+      .feedback.good { color: var(--success); }
+      .feedback.bad { color: var(--error); }
+
+      .finish-wrap {
+        margin-top: 74px;
+        padding-top: 32px;
+        border-top: 1px solid var(--ink);
+      }
+      .finish-wrap p {
+        font-size: .97rem;
+        line-height: 1.8;
+        color: #4e4f53;
+      }
+      .finish-button { width: 100%; margin-top: 16px; }
+
+      .adaptive-section {
+        animation: revealContent .28s ease both;
+      }
+
+      @keyframes revealContent {
+        from { opacity: 0; transform: translateY(8px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+
+      .drawer {
+        position: fixed;
+        inset: 0;
+        z-index: 40;
+        display: none;
+        align-items: flex-end;
+        justify-content: center;
+        background: rgba(25, 26, 29, .38);
+        backdrop-filter: blur(4px);
+      }
+      .drawer.is-open { display: flex; }
+      .drawer-panel {
+        width: min(100%, 470px);
+        max-height: 84vh;
+        overflow-y: auto;
+        background: var(--paper);
+        padding: 24px 24px calc(30px + env(safe-area-inset-bottom));
+        animation: drawerUp .32s cubic-bezier(.2,.8,.2,1) both;
+      }
+      @keyframes drawerUp { from { transform: translateY(30px); opacity: 0; } }
+      .drawer-head {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 18px;
+        border-bottom: 1px solid var(--ink);
+      }
+      .drawer h3 { margin: 0; font-family: var(--serif); font-size: 1.5rem; font-weight: 600; }
+      .issue-list { list-style: none; margin: 0; padding: 0; }
+      .issue-list li {
+        padding: 19px 0;
+        border-bottom: 1px solid var(--line);
+        display: grid;
+        grid-template-columns: 50px 1fr auto;
+        gap: 12px;
+        align-items: start;
+      }
+      .issue-number, .issue-time { color: var(--muted); font-size: .72rem; padding-top: 3px; }
+      .issue-name { font-family: var(--serif); font-size: .96rem; line-height: 1.55; }
+      .issue-list .active .issue-name { color: var(--accent); }
+
+      .sr-only {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+      }
+
+      @media (min-width: 760px) {
+        body { padding: 28px 0; }
+        .shell { min-height: calc(100vh - 56px); border-radius: 8px; }
+        .intro { min-height: calc(100vh - 128px); }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; transition-duration: .01ms !important; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div class="brand"><span class="brand-mark" aria-hidden="true">＋</span>脑袋加一</div>
+        <button class="menu-button" id="openArchive" type="button" aria-haspopup="dialog">近期</button>
+      </header>
+
+      <section class="intro" id="intro" aria-labelledby="todayTitle">
+        <div class="edition">
+          <span>2026.09.20 / 第 001 期</span>
+          <span>数学</span>
+        </div>
+        <div class="intro-main">
+          <div class="subject">高等数学 / 极限</div>
+          <h1 id="todayTitle">为什么无穷小不等于 0？</h1>
+          <p class="standfirst">它可以无限接近零，却始终保留着一点点“还没到”。这点差别，是整个极限思想的入口。</p>
+        </div>
+        <div class="time-control" id="timeControl">
+          <div class="time-head">
+            <span class="time-title">本次时长</span>
+            <span class="time-value"><strong id="timeValue">10</strong><small>分钟</small></span>
+          </div>
+          <div class="time-summary" id="timeSummary">核心概念 · 交互演示 · 关键辨析 · 自测</div>
+          <div class="time-scale" aria-hidden="true">
+            <span style="left: 7.4%">5</span>
+            <span style="left: 25.9%">10</span>
+            <span style="left: 63%">20</span>
+            <span style="left: 100%">30</span>
+          </div>
+          <label class="sr-only" for="timeRange">调整本次学习时长</label>
+          <input id="timeRange" type="range" min="3" max="30" value="10" step="1" />
+          <div class="time-extents"><span>快速浏览</span><span>深入学习</span></div>
+        </div>
+        <div class="intro-footer">
+          <button class="start-button" id="startReading" type="button">阅读</button>
+        </div>
+        <div class="completion-note" id="completionNote">本期已读。</div>
+      </section>
+
+      <article class="article" id="article" aria-labelledby="articleTitle">
+        <div class="reading-progress" aria-hidden="true"><span id="progressBar"></span></div>
+        <header class="article-head">
+          <div class="article-kicker">高等数学 · 极限 01</div>
+          <h2 id="articleTitle">无限接近，<br />但从未抵达</h2>
+          <div class="article-meta"><button class="time-chip" id="adjustTime" type="button">10 分钟 · 调整</button><span>难度：基础</span></div>
+        </header>
+
+        <div class="prose">
+          <p class="lead">先想象一个数：它今天是 0.1，明天是 0.01，后天是 0.001。它正在稳定地靠近零。无论你把时间推到多远，它都可以比昨天更小。</p>
+          <p>但只要小数点后仍然有一个 1，它就不是零。数学里，“越来越接近”和“最终就是”是两件不同的事。</p>
+
+          <div class="section-label"><span>01 / 一个简单的序列</span><span>先别急着背定义</span></div>
+          <p>取数列 <em>aₙ = 1/n</em>。当 <em>n</em> 不断变大，<em>aₙ</em> 会越来越小。给定任意一个很小的正数，我们总能让 <em>n</em> 足够大，使 <em>1/n</em> 比它还小。</p>
+
+          <div class="experiment" aria-labelledby="experimentTitle">
+            <div class="experiment-head">
+              <span class="experiment-title" id="experimentTitle">把 n 向右推</span>
+              <span class="experiment-value" id="experimentValue">n = 10，1/n = 0.1000</span>
+            </div>
+            <div class="number-line" aria-hidden="true">
+              <div class="axis"></div>
+              <span class="zero">0</span>
+              <span class="point-label" id="pointLabel">1/10</span>
+              <span class="point" id="point"></span>
+            </div>
+            <label class="sr-only" for="nRange">调整 n 的大小</label>
+            <input id="nRange" type="range" min="1" max="1000" value="10" step="1" />
+            <div class="range-labels"><span>n = 1</span><span>n = 1000</span></div>
+          </div>
+
+          <p>拖到最右边时，那个点已经很靠近零了，但它仍然在零的右侧。只要 <em>n</em> 是有限的，<em>1/n</em> 就永远大于零。</p>
+
+          <div class="formula">
+            lim<sub>n→∞</sub> 1/n = 0
+            <small>这句话描述的是变化趋势，而不是某一项的实际取值。</small>
+          </div>
+
+          <section class="adaptive-section" data-min="7">
+            <div class="section-label"><span>02 / “等于 0”到底在说什么</span><span>关键区别</span></div>
+            <p>极限等于零，意思是：数列的项最终可以落进零附近任意小的范围里。这个范围无论有多苛刻，我们都能做到。</p>
+            <p>它并没有说数列中的某一项必须取到零。极限关心的是“往哪里去”，不是“有没有到”。</p>
+
+            <aside class="margin-note">无穷小不是一个神秘的、比所有正数都小的固定数字。它描述的是一个以零为极限的变量。</aside>
+          </section>
+
+          <section class="adaptive-section" data-min="15">
+            <div class="section-label"><span>03 / 严格地说</span><span>定义</span></div>
+            <p>“任意接近”可以写得非常精确。无论给出多小的正数 <em>ε</em>，都能找到一个位置 <em>N</em>；从那以后，数列的每一项与零的距离都小于 <em>ε</em>。</p>
+            <div class="formula">
+              ∀ ε &gt; 0，∃ N，当 n &gt; N 时，|1/n| &lt; ε
+              <small>对 aₙ = 1/n，只需取 N &gt; 1/ε。</small>
+            </div>
+            <p>例如要求距离小于 0.001，只要让 <em>n &gt; 1000</em> 即可。这里没有“真的到达零”，只有一个可以满足任意精度的过程。</p>
+          </section>
+
+          <section class="adaptive-section" data-min="22">
+            <div class="section-label"><span>04 / 一个变式</span><span>符号不影响趋近</span></div>
+            <p>再看 <em>bₙ = (−1)ⁿ/n</em>。它一会儿在零的左边，一会儿在右边，看起来不断摆动；但它与零的距离仍然是 <em>1/n</em>，因此极限依然是零。</p>
+            <aside class="margin-note">判断是否趋近于零时，可以先观察绝对值。方向在变化，距离仍可能稳定缩小。</aside>
+          </section>
+
+          <div class="section-label"><span>练习 / 自测</span><span>单选</span></div>
+          <div class="question">
+            <div class="question-title">若 aₙ = 1/n，下列哪句话最准确？</div>
+            <div class="choices" role="group" aria-label="答案选项">
+              <button class="choice" data-answer="wrong" type="button"><span>A</span><span>当 n 足够大时，aₙ 就等于 0</span></button>
+              <button class="choice" data-answer="correct" type="button"><span>B</span><span>aₙ 始终大于 0，但它的极限是 0</span></button>
+              <button class="choice" data-answer="wrong" type="button"><span>C</span><span>aₙ 是一个固定的无穷小数字</span></button>
+            </div>
+            <div class="feedback" id="feedback" aria-live="polite">选一个你认为准确的说法。</div>
+          </div>
+
+          <div class="question adaptive-section" data-min="18">
+            <div class="question-title">若 bₙ = (−1)ⁿ/n，它的极限是什么？</div>
+            <div class="choices" role="group" aria-label="进阶答案选项">
+              <button class="choice" data-answer="wrong" type="button"><span>A</span><span>不存在，因为正负号不断变化</span></button>
+              <button class="choice" data-answer="correct" type="button"><span>B</span><span>等于 0，因为它与零的距离趋近于 0</span></button>
+              <button class="choice" data-answer="wrong" type="button"><span>C</span><span>等于 1，因为分子绝对值为 1</span></button>
+            </div>
+            <div class="feedback" aria-live="polite">注意区分数值的符号与它到零的距离。</div>
+          </div>
+
+          <div class="finish-wrap">
+            <p>下一期：两个无穷小，谁消失得更快？</p>
+            <button class="finish-button" id="finishReading" type="button">返回首页</button>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    <div class="drawer" id="archive" role="dialog" aria-modal="true" aria-labelledby="archiveTitle">
+      <div class="drawer-panel">
+        <div class="drawer-head">
+          <h3 id="archiveTitle">近期内容</h3>
+          <button class="close-button" id="closeArchive" type="button">关闭</button>
+        </div>
+        <ol class="issue-list">
+          <li class="active"><span class="issue-number">001</span><span class="issue-name">为什么无穷小不等于 0？</span><span class="issue-time">今天</span></li>
+          <li><span class="issue-number">002</span><span class="issue-name">两个无穷小，谁消失得更快？</span><span class="issue-time">明天</span></li>
+          <li><span class="issue-number">003</span><span class="issue-name">函数连续，究竟连续在哪里？</span><span class="issue-time">周二</span></li>
+          <li><span class="issue-number">004</span><span class="issue-name">导数为什么是一种局部观察？</span><span class="issue-time">周三</span></li>
+        </ol>
+      </div>
+    </div>
+
+    <script>
+      const intro = document.querySelector('#intro');
+      const article = document.querySelector('#article');
+      const startButton = document.querySelector('#startReading');
+      const finishButton = document.querySelector('#finishReading');
+      const progressBar = document.querySelector('#progressBar');
+      const archive = document.querySelector('#archive');
+      const openArchive = document.querySelector('#openArchive');
+      const closeArchive = document.querySelector('#closeArchive');
+      const range = document.querySelector('#nRange');
+      const value = document.querySelector('#experimentValue');
+      const point = document.querySelector('#point');
+      const pointLabel = document.querySelector('#pointLabel');
+      const timeRange = document.querySelector('#timeRange');
+      const timeValue = document.querySelector('#timeValue');
+      const timeSummary = document.querySelector('#timeSummary');
+      const adjustTime = document.querySelector('#adjustTime');
+      const adaptiveSections = [...document.querySelectorAll('[data-min]')];
+      const questions = [...document.querySelectorAll('.question')];
+
+      function updateDuration() {
+        const minutes = Number(timeRange.value);
+        timeValue.textContent = minutes;
+        adjustTime.textContent = `${minutes} 分钟 · 调整`;
+
+        if (minutes <= 6) {
+          timeSummary.textContent = '核心概念 · 交互演示 · 1 道自测';
+        } else if (minutes <= 14) {
+          timeSummary.textContent = '核心概念 · 交互演示 · 关键辨析 · 自测';
+        } else if (minutes <= 21) {
+          timeSummary.textContent = '核心概念 · 严格定义 · 交互演示 · 2 道自测';
+        } else {
+          timeSummary.textContent = '完整讲解 · 严格定义 · 变式分析 · 2 道自测';
+        }
+
+        adaptiveSections.forEach((section) => {
+          section.hidden = minutes < Number(section.dataset.min);
+        });
+        localStorage.setItem('naodai-plus-minutes', String(minutes));
+        requestAnimationFrame(updateProgress);
+      }
+
+      function showArticle() {
+        intro.classList.add('is-hidden');
+        article.classList.add('is-visible');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      function showIntro(completed = false) {
+        article.classList.remove('is-visible');
+        intro.classList.remove('is-hidden');
+        if (completed) {
+          intro.classList.add('is-complete');
+          startButton.textContent = '再次阅读';
+          localStorage.setItem('naodai-plus-complete', 'true');
+        }
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      function updateExperiment() {
+        const n = Number(range.value);
+        const inverse = 1 / n;
+        const normalized = Math.max(2, Math.min(94, Math.sqrt(inverse) * 92));
+        value.textContent = `n = ${n}，1/n = ${inverse.toFixed(n > 100 ? 5 : 4)}`;
+        point.style.left = `${normalized}%`;
+        pointLabel.style.left = `${normalized}%`;
+        pointLabel.textContent = `1/${n}`;
+      }
+
+      function updateProgress() {
+        if (!article.classList.contains('is-visible')) return;
+        const max = document.documentElement.scrollHeight - window.innerHeight;
+        const percentage = max > 0 ? Math.min(100, window.scrollY / max * 100) : 0;
+        progressBar.style.width = `${percentage}%`;
+      }
+
+      startButton.addEventListener('click', showArticle);
+      finishButton.addEventListener('click', () => showIntro(true));
+      range.addEventListener('input', updateExperiment);
+      timeRange.addEventListener('input', updateDuration);
+      adjustTime.addEventListener('click', () => {
+        showIntro(false);
+        window.setTimeout(() => timeRange.focus(), 350);
+      });
+      window.addEventListener('scroll', updateProgress, { passive: true });
+
+      questions.forEach((question) => {
+        const choices = [...question.querySelectorAll('.choice')];
+        const feedback = question.querySelector('.feedback');
+        choices.forEach((choice) => {
+          choice.addEventListener('click', () => {
+            choices.forEach((item) => {
+              item.classList.remove('correct', 'incorrect');
+              item.setAttribute('aria-pressed', 'false');
+            });
+            choice.setAttribute('aria-pressed', 'true');
+            if (choice.dataset.answer === 'correct') {
+              choice.classList.add('correct');
+              feedback.className = 'feedback good';
+              feedback.textContent = question === questions[0]
+                ? '准确。每一项都大于零，但整个数列可以把零作为自己的极限。'
+                : '准确。虽然符号交替变化，但它到零的距离持续缩小。';
+            } else {
+              choice.classList.add('incorrect');
+              feedback.className = 'feedback bad';
+              feedback.textContent = question === questions[0]
+                ? '极限描述的是变化趋势，不是某一项突然变成了零。'
+                : '观察绝对值：|bₙ| = 1/n，它正在趋近于零。';
+            }
+          });
+        });
+      });
+
+      function openDrawer() {
+        archive.classList.add('is-open');
+        document.body.style.overflow = 'hidden';
+        closeArchive.focus();
+      }
+
+      function closeDrawer() {
+        archive.classList.remove('is-open');
+        document.body.style.overflow = '';
+        openArchive.focus();
+      }
+
+      openArchive.addEventListener('click', openDrawer);
+      closeArchive.addEventListener('click', closeDrawer);
+      archive.addEventListener('click', (event) => { if (event.target === archive) closeDrawer(); });
+      document.addEventListener('keydown', (event) => { if (event.key === 'Escape' && archive.classList.contains('is-open')) closeDrawer(); });
+
+      if (localStorage.getItem('naodai-plus-complete') === 'true') {
+        intro.classList.add('is-complete');
+        startButton.textContent = '再次阅读';
+      }
+      const savedMinutes = Number(localStorage.getItem('naodai-plus-minutes'));
+      if (Number.isFinite(savedMinutes) && savedMinutes >= 3 && savedMinutes <= 30) {
+        timeRange.value = String(savedMinutes);
+      }
+      updateExperiment();
+      updateDuration();
+    </script>
+  </body>
+</html>

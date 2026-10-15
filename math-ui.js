@@ -3,11 +3,11 @@
 
   // Only these local destinations are supported. Never use a query as a URL.
   const requestedReturn = new URLSearchParams(window.location.search).get('return');
-  const returnRoute = requestedReturn === 'library' ? 'library' : 'subjects';
+  const returnRoute = ['library','plans'].includes(requestedReturn) ? requestedReturn : 'subjects';
   const returnLink = document.getElementById('mathReturn');
   if (returnLink) {
     returnLink.href = `./#${returnRoute}`;
-    returnLink.textContent = returnRoute === 'library' ? '← 返回书架' : '← 返回选择科目';
+    returnLink.textContent = returnRoute === 'library' ? '← 返回书架' : returnRoute === 'plans' ? '← 返回学习计划' : '← 返回选择科目';
   }
 
   const range = document.getElementById('limitRange');

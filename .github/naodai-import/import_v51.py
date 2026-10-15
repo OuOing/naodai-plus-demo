@@ -32,6 +32,7 @@ ATTEMPTS = 3
 REQUEST_TIMEOUT = 20
 ASSET_DEADLINE = 60
 TOTAL_DEADLINE = 17 * 60
+HTML_OVERRIDES = ("index.html", "math.html")
 
 
 class ImportFailure(RuntimeError):
@@ -211,14 +212,40 @@ def verify_tree(manifest, directory):
         validate_payload(row, checked_destination(directory, row["path"]).read_bytes())
 
 
-def download_all(manifest, stage):
+def install_html_overrides(manifest, stage, override_directory):
+    """Use exact local-source HTML, still verified by the unchanged manifest."""
+    rows = {row["path"]: row for row in manifest["files"]}
+    payloads = []
+    directory = Path(override_directory)
+    if directory.is_symlink():
+        raise ImportFailure("HTML override directory must not be a symlink")
+    # Validate both overrides before writing either one. No network fallback.
+    for path in HTML_OVERRIDES:
+        source = checked_destination(directory, path)
+        if path not in rows or not source.is_file():
+            raise ImportFailure("Missing pinned HTML override: " + path)
+        payload = source.read_bytes()
+        validate_payload(rows[path], payload)
+        payloads.append((path, payload))
+    for path, payload in payloads:
+        target = checked_destination(stage, path)
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_bytes(payload)
+        print("Pinned HTML override verified: " + path, flush=True)
+    return set(HTML_OVERRIDES)
+
+
+def download_all(manifest, stage, override_directory):
     deadline = time.monotonic() + TOTAL_DEADLINE
     rows = {row["path"]: row for row in manifest["files"]}
+    completed = install_html_overrides(manifest, stage, override_directory)
     for path in manifest["sentinels"]:
-        fetch_with_retries(rows[path], stage, deadline)
+        if path not in completed:
+            fetch_with_retries(rows[path], stage, deadline)
+            completed.add(path)
         print("Sentinel verified: " + path, flush=True)
-    pending = [row for row in manifest["files"] if row["path"] not in manifest["sentinels"]]
-    done = len(manifest["sentinels"])
+    pending = [row for row in manifest["files"] if row["path"] not in completed]
+    done = len(completed)
     pool = concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS)
     futures = [pool.submit(fetch_with_retries, row, stage, deadline) for row in pending]
     try:
@@ -333,7 +360,7 @@ def main():
         stage = Path(temporary)
         if stage.is_relative_to(repo):
             raise ImportFailure("Download stage must be outside the checkout")
-        download_all(manifest, stage)
+        download_all(manifest, stage, Path(__file__).resolve().parent / "html")
         assert_expected_head(repo, args.expected_head, require_clean=True)
         if not args.publish:
             print("All source assets verified; no repository files changed", flush=True)

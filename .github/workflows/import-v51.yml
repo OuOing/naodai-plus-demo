@@ -1,0 +1,47 @@
+name: Import verified Naodai v51 once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/import-v51.yml'
+      - '.github/naodai-import/**'
+
+# No repository-wide permission setting is changed. All unspecified token
+# permissions are disabled. The root task removes this workflow after success.
+permissions: {}
+
+concurrency:
+  group: naodai-v51-one-time-import
+  cancel-in-progress: false
+
+jobs:
+  import:
+    if: github.repository == 'OuOing/naodai-plus-demo' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the exact triggering commit
+        # Official actions/checkout v7.0.1, verified against GitHub's tag API.
+        # Its temporary job credential is removed by the action's post step.
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 1
+          persist-credentials: true
+          submodules: false
+          lfs: false
+      - name: Verify every public asset and import only the pinned site files
+        shell: bash
+        env:
+          PYTHONDONTWRITEBYTECODE: '1'
+        run: |
+          set -euo pipefail
+          python3 .github/naodai-import/import_v51.py \
+            --manifest .github/naodai-import/manifest-v51.json \
+            --manifest-sha256 8d5bcdb7ca43e1f4034e52ad43eb1f7d1cbd8ad6fb04f582f0ce63cc56ca2cac \
+            --repo "$GITHUB_WORKSPACE" \
+            --expected-head "$GITHUB_SHA" \
+            --publish

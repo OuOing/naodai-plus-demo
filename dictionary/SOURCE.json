@@ -1,0 +1,18 @@
+{
+  "name": "ECDICT corpus subset",
+  "upstream": "https://github.com/skywind3000/ECDICT",
+  "sourceUrl": "https://raw.githubusercontent.com/skywind3000/ECDICT/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b/ecdict.csv",
+  "commit": "bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+  "license": "MIT",
+  "licenseUrl": "https://github.com/skywind3000/ECDICT/blob/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b/LICENSE",
+  "copyright": "Copyright (c) 2025 Linwei",
+  "retrievedAt": "2026-10-09",
+  "sourceSha256": "1a6947e04785db63613a92e14903cdae7954f7e84860b10e68e5c7cbb3f9c3cf",
+  "dictionarySha256": "4c34d13546ea1814686443cc8d3627848762deb5b32c97cae31d965b0cee848e",
+  "notes": [
+    "Upstream repository declares MIT. Preserve LICENSE-ECDICT.txt when distributing dictionary subset. This verifies upstream licensing, not an independent audit of every historical contributing source.",
+    "lemma.en.txt was inspected but NOT used: its header separately limits free use to research/education and its mappings are unsuitable for unrestricted general distribution.",
+    "Dictionary text and phonetics are verbatim upstream values except CSV literal newline expansion.",
+    "No definitions were generated. Explicit ECDICT exchange fields identify baseforms; apostrophe-s lookups are labeled possessive_or_contraction and must be displayed as related-base lookups, not definitive contextual meanings."
+  ]
+}

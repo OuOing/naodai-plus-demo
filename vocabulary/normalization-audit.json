@@ -1,0 +1,30 @@
+{
+  "casefoldCollisions": [],
+  "punctuationStrippedCollisions": [
+    [
+      "co-operation",
+      "cooperation"
+    ],
+    [
+      "co-operative",
+      "cooperative"
+    ],
+    [
+      "drop-out",
+      "dropout"
+    ],
+    [
+      "up-to-date",
+      "uptodate"
+    ],
+    [
+      "water-proof",
+      "waterproof"
+    ],
+    [
+      "world-wide",
+      "worldwide"
+    ]
+  ],
+  "policy": "No merging or punctuation stripping. Preserve separate upstream headwords, IDs and meanings. Upstream may itself combine capitalization-sensitive senses, e.g. may has May and modal meanings."
+}

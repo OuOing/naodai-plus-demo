@@ -1,0 +1,77 @@
+{
+  "dictionary": {
+    "schemaVersion": 1,
+    "name": "脑袋加一：ECDICT 考试标签词库",
+    "createdAt": "2026-10-10",
+    "source": "https://github.com/skywind3000/ECDICT",
+    "sourceUrl": "https://raw.githubusercontent.com/skywind3000/ECDICT/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b/ecdict.csv",
+    "sourceCommit": "bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "sourceSha256": "1a6947e04785db63613a92e14903cdae7954f7e84860b10e68e5c7cbb3f9c3cf",
+    "license": "MIT",
+    "licenseFile": "LICENSE-ECDICT.txt",
+    "tagMapping": {
+      "postgrad": "ky",
+      "cet4": "cet4",
+      "cet6": "cet6",
+      "ielts": "ielts"
+    },
+    "trackCounts": {
+      "postgrad": 4801,
+      "cet4": 3849,
+      "cet6": 5407,
+      "ielts": 5038
+    },
+    "wordCount": 7834,
+    "cet6ExcludingCet4Count": 1956,
+    "cet6Cet4IntersectionCount": 3451,
+    "selection": "All usable entries with corresponding source tags; no cap and no frequency/word-length exclusion. Preserve source headword case, short basic words, compounds, abbreviations and multiword entries. Missing phonetics are allowed. Chinese gloss is required. Manual exclusions are documented in exclusions.json. Geographic/calendar/cultural vocabulary is retained when tagged; capitalization alone does not imply an invalid entry. Source-tagged inflected forms remain separate entries.",
+    "coverageNotice": "完整导入所用 ECDICT 数据版本中可用的考研（ky）、四级（cet4）、六级（cet6）及雅思（ielts）标签词条，无数量上限；这些第三方标签不等于官方完整考纲，雅思词集也不是官方词表。",
+    "definitionNotice": "Chinese glosses and phonetics are verbatim from the pinned CSV except literal newline expansion. Upstream errors and varied phonetic conventions may remain; no definitions or phonetics are generated.",
+    "licenseNotice": "Upstream repository declares MIT; preserve the license notice. This is not an independent audit of every historical contributing source. The separately restricted lemma.en.txt is not used."
+  },
+  "phrases": {
+    "schemaVersion": 1,
+    "name": "常用搭配精选",
+    "phraseCount": 77,
+    "parentWordCount": 77,
+    "createdAt": "2026-10-10",
+    "provenance": "Phrase choices, Chinese explanations and bilingual example sentences authored for this app. Examples are original illustrative sentences, not quotations from a dictionary or examination.",
+    "coverageNotice": "仅 77 个精选词提供关联短语，不代表所有单词均有短语；短语并非官方考试词表。",
+    "relation": "Tracks inherit complete parent-word membership from ECDICT tags; phrase wording/examples are existing authored app content, not source dictionary examples or official exam classifications."
+  },
+  "verification": {
+    "verifiedAt": "2026-10-10",
+    "method": "Fresh download of pinned upstream CSV; SHA-256 equality checked against previously pinned source. Upstream repository and license independently browsed.",
+    "licenseUrl": "https://github.com/skywind3000/ECDICT/blob/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b/LICENSE",
+    "licenseSha256": "f8552dd246f61a4e064569eae6194a01c6b3d63b03bf27c6ca863593c549ed0f",
+    "readmeUrl": "https://github.com/skywind3000/ECDICT/blob/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b/README.md"
+  },
+  "statistics": {
+    "totalSourceRows": 770611,
+    "wordCount": 7834,
+    "trackCounts": {
+      "postgrad": 4801,
+      "cet4": 3849,
+      "cet6": 5407,
+      "ielts": 5038
+    },
+    "cet6ExcludingCet4Count": 1956,
+    "cet6Cet4IntersectionCount": 3451,
+    "previousWordCount": 1766,
+    "preservedPreviousIds": 1766,
+    "newWordCount": 6068,
+    "missingPhoneticCount": 275,
+    "hyphenatedCount": 35,
+    "apostropheCount": 0,
+    "multiwordCount": 2,
+    "phraseCount": 77
+  },
+  "exclusionAudit": "exclusions.json",
+  "normalizationAudit": "normalization-audit.json",
+  "files": {
+    "vocabulary.json": "b1ee15f019f6fde56a60da891f6d1f06f79849e3cbda6f44166a9096b902c653",
+    "phrases.json": "1cfdc72f30b1a682cc0b89c689d0d89744ad64764ee47f4f16d6958727ac2b35",
+    "exclusions.json": "be47875a67060c251c23d29da84cd508918b3f0dff25a4d3f19c7045db7aa574",
+    "normalization-audit.json": "769dd9c7c4a6e6e640a3fcd702540a127536e6342dfa79dae7b5d8ef9338d0ab"
+  }
+}

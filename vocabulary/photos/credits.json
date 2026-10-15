@@ -1,0 +1,3958 @@
+[
+  {
+    "id": "aircraft",
+    "file": "aircraft.jpg",
+    "words": [
+      "aircraft",
+      "aeroplane",
+      "wing"
+    ],
+    "altZh": "飞机",
+    "captionZh": "真实摄影 · 飞机",
+    "wordCuesZh": {
+      "aircraft": "飞机：观察照片中的飞机",
+      "aeroplane": "飞机：观察照片中的飞机",
+      "wing": "机翼：观察机身上方向两侧伸出的翼面"
+    },
+    "author": "Alan Wilson from Stilton, Peterborough, Cambs, UK",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cessna_172S_Skyhawk_%E2%80%98G-JMKE%E2%80%99_(45077563364).jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Cessna_172S_Skyhawk_‘G-JMKE’_(45077563364).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "0cb931311a0401bb6286cc455ba9bf5bfd1970508d12461d2908613bfb5752b5",
+    "attribution": "Cessna_172S_Skyhawk_‘G-JMKE’_(45077563364).jpg — Alan Wilson from Stilton, Peterborough, Cambs, UK; CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Cessna_172S_Skyhawk_%E2%80%98G-JMKE%E2%80%99_(45077563364).jpg"
+  },
+  {
+    "id": "strawberry",
+    "file": "strawberry.jpg",
+    "words": [
+      "strawberry"
+    ],
+    "altZh": "草莓",
+    "captionZh": "真实摄影 · 草莓",
+    "wordCuesZh": {
+      "strawberry": "草莓：观察照片中的草莓"
+    },
+    "author": "Ivar Leidus",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Garden_strawberry_(Fragaria_×_ananassa)_single2.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "47aac91bd63e5cdaf9afb46e25d2446e0748597ca363c034e15d178aed21d427",
+    "attribution": "Garden_strawberry_(Fragaria_×_ananassa)_single2.jpg — Ivar Leidus; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg"
+  },
+  {
+    "id": "grape",
+    "file": "grape.jpg",
+    "words": [
+      "grape",
+      "fruit"
+    ],
+    "altZh": "葡萄",
+    "captionZh": "真实摄影 · 葡萄",
+    "wordCuesZh": {
+      "grape": "葡萄：观察照片中的葡萄",
+      "fruit": "水果：图中为一串串葡萄果实"
+    },
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Grapes,_Rostov-on-Don,_Russia.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "7c98622aa873169253e4259f1827ede22425c9fa10d85adf3864ef2d64f05f58",
+    "attribution": "Grapes,_Rostov-on-Don,_Russia.jpg — Vyacheslav Argenberg; CC BY 4.0. https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg"
+  },
+  {
+    "id": "lemon",
+    "file": "lemon.jpg",
+    "words": [
+      "lemon"
+    ],
+    "altZh": "柠檬",
+    "captionZh": "真实摄影 · 柠檬",
+    "wordCuesZh": {
+      "lemon": "柠檬：观察照片中的柠檬"
+    },
+    "author": "Elena Chochkova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:P1030323.JPG",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "P1030323.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "03ef9b39a66b0dc35f3f97e35859d1937606d67d00c6fcec904fccc97519614d",
+    "attribution": "P1030323.JPG — Elena Chochkova; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:P1030323.JPG"
+  },
+  {
+    "id": "pear",
+    "file": "pear.jpg",
+    "words": [
+      "pear"
+    ],
+    "altZh": "梨",
+    "captionZh": "真实摄影 · 梨",
+    "wordCuesZh": {
+      "pear": "梨：观察照片中的梨"
+    },
+    "author": "Keith Weller",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pears.jpg",
+    "width": 420,
+    "height": 640,
+    "imageTitle": "Pears.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "95c7713bab7e519af9ecde6486f49eebeb02d37ad3201188bcfcf7f3ff116f96",
+    "attribution": "Pears.jpg — Keith Weller; Public domain. https://commons.wikimedia.org/wiki/File:Pears.jpg"
+  },
+  {
+    "id": "pineapple",
+    "file": "pineapple.jpg",
+    "words": [
+      "pineapple"
+    ],
+    "altZh": "菠萝",
+    "captionZh": "真实摄影 · 菠萝",
+    "wordCuesZh": {
+      "pineapple": "菠萝：观察照片中的菠萝"
+    },
+    "author": "Suniltg at Malayalam Wikipedia",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg",
+    "width": 640,
+    "height": 429,
+    "imageTitle": "കൈതച്ചക്ക.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "b0c6c959e34e7787910ca0b0f455e73c09affe77e278d567b33a6c5f277d78e7",
+    "attribution": "കൈതച്ചക്ക.jpg — Suniltg at Malayalam Wikipedia; CC BY 3.0. https://commons.wikimedia.org/wiki/File:%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg"
+  },
+  {
+    "id": "tomato",
+    "file": "tomato.jpg",
+    "words": [
+      "tomato"
+    ],
+    "altZh": "番茄",
+    "captionZh": "真实摄影 · 番茄",
+    "wordCuesZh": {
+      "tomato": "番茄：观察照片中的番茄"
+    },
+    "author": "Softeis",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+    "width": 640,
+    "height": 532,
+    "imageTitle": "Tomato_je.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "d817dcdc6202d6863aec328144c9c7dc635bb3363f6dbf7b08a2c9ad1336801c",
+    "attribution": "Tomato_je.jpg — Softeis; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Tomato_je.jpg"
+  },
+  {
+    "id": "carrot",
+    "file": "carrot.jpg",
+    "words": [
+      "carrot",
+      "vegetable"
+    ],
+    "altZh": "胡萝卜",
+    "captionZh": "真实摄影 · 胡萝卜",
+    "wordCuesZh": {
+      "carrot": "胡萝卜：观察照片中的胡萝卜",
+      "vegetable": "蔬菜：照片中的胡萝卜是一种蔬菜"
+    },
+    "author": "Evan-Amos",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg",
+    "width": 640,
+    "height": 363,
+    "imageTitle": "Vegetable-Carrot-Bundle-wStalks.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "ed314e05621b7b0c34fd99d9c37f37d5fc8a0877fae256640803a09e19527859",
+    "attribution": "Vegetable-Carrot-Bundle-wStalks.jpg — Evan-Amos; Public domain. https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg"
+  },
+  {
+    "id": "onion",
+    "file": "onion.jpg",
+    "words": [
+      "onion"
+    ],
+    "altZh": "洋葱",
+    "captionZh": "真实摄影 · 洋葱",
+    "wordCuesZh": {
+      "onion": "洋葱：观察照片中的洋葱"
+    },
+    "author": "Colin",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+    "width": 640,
+    "height": 640,
+    "imageTitle": "Mixed_onions.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "8d2c9e440291c899caa72a8c11809370cb7391ae541539fc007f8b3a02699638",
+    "attribution": "Mixed_onions.jpg — Colin; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg"
+  },
+  {
+    "id": "pumpkin",
+    "file": "pumpkin.jpg",
+    "words": [
+      "pumpkin"
+    ],
+    "altZh": "南瓜",
+    "captionZh": "真实摄影 · 南瓜",
+    "wordCuesZh": {
+      "pumpkin": "南瓜：观察照片中的南瓜"
+    },
+    "author": "Infrogmation of New Orleans",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:FrenchMarketPumpkinsB.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "FrenchMarketPumpkinsB.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "56d1986ba392127ce744e12157042d4c8922740612bf037faac01070b9dea9aa",
+    "attribution": "FrenchMarketPumpkinsB.jpg — Infrogmation of New Orleans; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:FrenchMarketPumpkinsB.jpg"
+  },
+  {
+    "id": "mushroom",
+    "file": "mushroom.jpg",
+    "words": [
+      "mushroom"
+    ],
+    "altZh": "蘑菇",
+    "captionZh": "真实摄影 · 蘑菇",
+    "wordCuesZh": {
+      "mushroom": "蘑菇：观察照片中的蘑菇"
+    },
+    "author": "Holger Krisp",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sparrige_Sch%C3%BCppling_(Pholiota_squarrosa).jpg",
+    "width": 640,
+    "height": 430,
+    "imageTitle": "Sparrige_Schüppling_(Pholiota_squarrosa).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "3f6bfa045c2fddb210a59d1bcc300ffa44e29d87c8a41afc94e1aab30dcf7c09",
+    "attribution": "Sparrige_Schüppling_(Pholiota_squarrosa).jpg — Holger Krisp; CC BY 3.0. https://commons.wikimedia.org/wiki/File:Sparrige_Sch%C3%BCppling_(Pholiota_squarrosa).jpg"
+  },
+  {
+    "id": "coffee",
+    "file": "coffee.jpg",
+    "words": [
+      "coffee"
+    ],
+    "altZh": "咖啡",
+    "captionZh": "真实摄影 · 咖啡",
+    "wordCuesZh": {
+      "coffee": "咖啡：观察照片中的咖啡"
+    },
+    "author": "Bex Walton",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg",
+    "width": 640,
+    "height": 400,
+    "imageTitle": "Latte_and_dark_coffee.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "bdd16dd77cb06427c4b5ef441898d4d51a4abf1307cb05143403b3101d14dac7",
+    "attribution": "Latte_and_dark_coffee.jpg — Bex Walton; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg"
+  },
+  {
+    "id": "tea",
+    "file": "tea.jpg",
+    "words": [
+      "tea"
+    ],
+    "altZh": "茶",
+    "captionZh": "真实摄影 · 茶",
+    "wordCuesZh": {
+      "tea": "茶：观察照片中的茶"
+    },
+    "author": "Difference engine",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Longjing_tea_steeping_in_gaiwan.jpg",
+    "width": 640,
+    "height": 640,
+    "imageTitle": "Longjing_tea_steeping_in_gaiwan.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "9e19da3c7786f7b29497b7d21323e3d1bd7c50567bb058ce8fb172e4e14dc11a",
+    "attribution": "Longjing_tea_steeping_in_gaiwan.jpg — Difference engine; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Longjing_tea_steeping_in_gaiwan.jpg"
+  },
+  {
+    "id": "bicycle",
+    "file": "bicycle.jpg",
+    "words": [
+      "bicycle",
+      "wheel",
+      "tyre",
+      "tire",
+      "pedal",
+      "saddle"
+    ],
+    "altZh": "自行车",
+    "captionZh": "真实摄影 · 自行车",
+    "wordCuesZh": {
+      "bicycle": "自行车：观察照片中的自行车",
+      "wheel": "车轮：自行车前后两个圆形车轮",
+      "tyre": "轮胎：车轮最外侧的黑色橡胶圈",
+      "tire": "轮胎（美式拼写）：车轮最外侧的黑色橡胶圈",
+      "pedal": "踏板：车架下部供脚踩动的小踏板",
+      "saddle": "车座：自行车上供骑车人坐的座垫"
+    },
+    "author": "齐健 from Peking, People's Republic of China",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Left_side_of_Flying_Pigeon.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "c1c451ba1c79b011a1dc4c2540e02a7cdc0837bd92113724fe29f83ff06bbfd5",
+    "attribution": "Left_side_of_Flying_Pigeon.jpg — 齐健 from Peking, People's Republic of China; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg"
+  },
+  {
+    "id": "bus",
+    "file": "bus.jpg",
+    "words": [
+      "bus"
+    ],
+    "altZh": "公共汽车",
+    "captionZh": "真实摄影 · 公共汽车",
+    "wordCuesZh": {
+      "bus": "公共汽车：观察照片中的公共汽车"
+    },
+    "author": "SIA321",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:LTZ1328-19-20241030-160332.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "LTZ1328-19-20241030-160332.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "d17de700463bd09ebefcc8271d618c618414d55e3219969ba64388f477c83cbe",
+    "attribution": "LTZ1328-19-20241030-160332.jpg — SIA321; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:LTZ1328-19-20241030-160332.jpg"
+  },
+  {
+    "id": "tractor",
+    "file": "tractor.jpg",
+    "words": [
+      "tractor"
+    ],
+    "altZh": "拖拉机",
+    "captionZh": "真实摄影 · 拖拉机",
+    "wordCuesZh": {
+      "tractor": "拖拉机：观察照片中的拖拉机"
+    },
+    "author": "Mulad",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ford_8N.jpg",
+    "width": 640,
+    "height": 506,
+    "imageTitle": "Ford_8N.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "09c71187624eba229e9c94dfcc0fa0d5d4e1fcafa912b5925ad2b473d8ddb2fd",
+    "attribution": "Ford_8N.jpg — Mulad; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Ford_8N.jpg"
+  },
+  {
+    "id": "helicopter",
+    "file": "helicopter.jpg",
+    "words": [
+      "helicopter",
+      "yellow"
+    ],
+    "altZh": "直升机",
+    "captionZh": "真实摄影 · 直升机",
+    "wordCuesZh": {
+      "helicopter": "直升机：观察照片中的直升机",
+      "yellow": "黄色：观察直升机机身上醒目的黄色涂装"
+    },
+    "author": "Fly45yt",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:VH-SUF_Taking_Off.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "VH-SUF_Taking_Off.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "5dd59a3acca3241cb8818910559a797d72ad644bfd600a9708693285439fe56a",
+    "attribution": "VH-SUF_Taking_Off.jpg — Fly45yt; CC BY 4.0. https://commons.wikimedia.org/wiki/File:VH-SUF_Taking_Off.jpg"
+  },
+  {
+    "id": "locomotive",
+    "file": "locomotive.jpg",
+    "words": [
+      "locomotive",
+      "engine"
+    ],
+    "altZh": "机车",
+    "captionZh": "真实摄影 · 机车",
+    "wordCuesZh": {
+      "locomotive": "机车：观察照片中的机车",
+      "engine": "机车：图中为蒸汽火车的机车头"
+    },
+    "author": "Max Thum",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:R761-mx1.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "R761-mx1.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "f5020fd1922004e9eecdeae9b6aa48783e9c85fc771a4d047d36277f0ef8c3fd",
+    "attribution": "R761-mx1.jpg — Max Thum; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:R761-mx1.jpg"
+  },
+  {
+    "id": "anchor",
+    "file": "anchor.jpg",
+    "words": [
+      "anchor"
+    ],
+    "altZh": "锚",
+    "captionZh": "真实摄影 · 锚",
+    "wordCuesZh": {
+      "anchor": "锚：观察照片中的锚"
+    },
+    "author": "Radomil",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kotwica_SS_Pozna%C5%84.JPG",
+    "width": 640,
+    "height": 522,
+    "imageTitle": "Kotwica_SS_Poznań.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "8c5be93827868d7611e85f83d6eadddb57c90fcf27610ffe6865ae66967fd018",
+    "attribution": "Kotwica_SS_Poznań.JPG — Radomil; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Kotwica_SS_Pozna%C5%84.JPG"
+  },
+  {
+    "id": "windmill",
+    "file": "windmill.jpg",
+    "words": [
+      "windmill"
+    ],
+    "altZh": "风车",
+    "captionZh": "真实摄影 · 风车",
+    "wordCuesZh": {
+      "windmill": "风车：观察照片中的风车"
+    },
+    "author": "Cnyborg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:DK_Fanoe_Windmill01.JPG",
+    "width": 427,
+    "height": 640,
+    "imageTitle": "DK_Fanoe_Windmill01.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "d3cd88130effd34a1e8198555189a1841405e7919d91b11403d85e8b029e26b5",
+    "attribution": "DK_Fanoe_Windmill01.JPG — Cnyborg; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:DK_Fanoe_Windmill01.JPG"
+  },
+  {
+    "id": "castle",
+    "file": "castle.jpg",
+    "words": [
+      "castle"
+    ],
+    "altZh": "城堡",
+    "captionZh": "真实摄影 · 城堡",
+    "wordCuesZh": {
+      "castle": "城堡：观察照片中的城堡"
+    },
+    "author": "Ángel Sanz de Andrés",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Panorámica_Otoño_Alcázar_de_Segovia.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "c56ac86396f5f377b5c744766a898ad4b1c75eb4c2f69bc6df95bffa186b46bd",
+    "attribution": "Panorámica_Otoño_Alcázar_de_Segovia.jpg — Ángel Sanz de Andrés; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg"
+  },
+  {
+    "id": "cathedral",
+    "file": "cathedral.jpg",
+    "words": [
+      "cathedral"
+    ],
+    "altZh": "大教堂",
+    "captionZh": "真实摄影 · 大教堂",
+    "wordCuesZh": {
+      "cathedral": "大教堂：观察照片中的大教堂"
+    },
+    "author": "Wilfredor",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral_da_S%C3%A9_em_S%C3%A3o_Paulo.jpg",
+    "width": 474,
+    "height": 640,
+    "imageTitle": "Catedral_da_Sé_em_São_Paulo.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "d5c39dbcf713e59ae61fa0cf58a8a6ef9d0ddf00c90093e91fae833ce9c0de16",
+    "attribution": "Catedral_da_Sé_em_São_Paulo.jpg — Wilfredor; CC0. https://commons.wikimedia.org/wiki/File:Catedral_da_S%C3%A9_em_S%C3%A3o_Paulo.jpg"
+  },
+  {
+    "id": "mosque",
+    "file": "mosque.jpg",
+    "words": [
+      "mosque"
+    ],
+    "altZh": "清真寺",
+    "captionZh": "真实摄影 · 清真寺",
+    "wordCuesZh": {
+      "mosque": "清真寺：观察照片中的清真寺"
+    },
+    "author": "King Eliot",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masjid_e_Nabawi_Interior_2.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Masjid_e_Nabawi_Interior_2.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "eb9f271149f75619d056874ae511abadb4d1b68aa3516f63f9fbeddbbd5f840e",
+    "attribution": "Masjid_e_Nabawi_Interior_2.jpg — King Eliot; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Masjid_e_Nabawi_Interior_2.jpg"
+  },
+  {
+    "id": "waterfall",
+    "file": "waterfall.jpg",
+    "words": [
+      "waterfall"
+    ],
+    "altZh": "瀑布",
+    "captionZh": "真实摄影 · 瀑布",
+    "wordCuesZh": {
+      "waterfall": "瀑布：观察照片中的瀑布"
+    },
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cascada_Dynjandi,_Vestfir%C3%B0ir,_Islandia,_2014-08-14,_DD_136-138_HDR.JPG",
+    "width": 416,
+    "height": 640,
+    "imageTitle": "Cascada_Dynjandi,_Vestfirðir,_Islandia,_2014-08-14,_DD_136-138_HDR.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "222ecbf7dc784b5379b3099741994c5e6499204caf290bac8b2ea4b45361d6df",
+    "attribution": "Cascada_Dynjandi,_Vestfirðir,_Islandia,_2014-08-14,_DD_136-138_HDR.JPG — Diego Delso; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Cascada_Dynjandi,_Vestfir%C3%B0ir,_Islandia,_2014-08-14,_DD_136-138_HDR.JPG"
+  },
+  {
+    "id": "volcano",
+    "file": "volcano.jpg",
+    "words": [
+      "volcano"
+    ],
+    "altZh": "火山",
+    "captionZh": "真实摄影 · 火山",
+    "wordCuesZh": {
+      "volcano": "火山：观察照片中的火山"
+    },
+    "author": "Cyrus Read\nGeophysicist\nUSGS, Alaska Volcano Observatory\n\ncread@usgs.gov",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "a122a270a5a76612ffcf7884c0ab40cee14fe4e6af4e033db135332dd33a4d11",
+    "attribution": "Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg — Cyrus Read\nGeophysicist\nUSGS, Alaska Volcano Observatory\n\ncread@usgs.gov; Public domain. https://commons.wikimedia.org/wiki/File:Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg"
+  },
+  {
+    "id": "glacier",
+    "file": "glacier.jpg",
+    "words": [
+      "glacier"
+    ],
+    "altZh": "冰川",
+    "captionZh": "真实摄影 · 冰川",
+    "wordCuesZh": {
+      "glacier": "冰川：观察照片中的冰川"
+    },
+    "author": "NASA / Christy Hansen",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geikie_Plateau_Glacier.JPG",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Geikie_Plateau_Glacier.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "72634e7d6d9d90514946ff53180b760854e55e0f1976c79164f2845025d4cc16",
+    "attribution": "Geikie_Plateau_Glacier.JPG — NASA / Christy Hansen; Public domain. https://commons.wikimedia.org/wiki/File:Geikie_Plateau_Glacier.JPG"
+  },
+  {
+    "id": "desert",
+    "file": "desert.jpg",
+    "words": [
+      "desert",
+      "sand",
+      "slope"
+    ],
+    "altZh": "沙漠",
+    "captionZh": "真实摄影 · 沙漠",
+    "wordCuesZh": {
+      "desert": "沙漠：观察照片中的沙漠",
+      "sand": "沙：组成沙丘的细沙",
+      "slope": "斜坡：沙丘向下倾斜的表面"
+    },
+    "author": "Nepenthes",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rub_al_Khali_002.JPG",
+    "width": 640,
+    "height": 358,
+    "imageTitle": "Rub_al_Khali_002.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "8eaeabd224d0b32dc62e385d284380a381580e444c58c55e257ab352c994a77b",
+    "attribution": "Rub_al_Khali_002.JPG — Nepenthes; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Rub_al_Khali_002.JPG"
+  },
+  {
+    "id": "beach",
+    "file": "beach.jpg",
+    "words": [
+      "beach",
+      "shore",
+      "coast"
+    ],
+    "altZh": "海滩",
+    "captionZh": "真实摄影 · 海滩",
+    "wordCuesZh": {
+      "beach": "海滩：观察照片中的海滩",
+      "shore": "岸：沙滩与海水交接的地带",
+      "coast": "海岸：沿海延伸的陆地边缘"
+    },
+    "author": "Daniel Dudek",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beach_at_Fort_Lauderdale.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Beach_at_Fort_Lauderdale.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "cb0450898a7424f6bd087842b541bbd2a8848be4351703d2c4651f1e8197a525",
+    "attribution": "Beach_at_Fort_Lauderdale.jpg — Daniel Dudek; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Beach_at_Fort_Lauderdale.jpg"
+  },
+  {
+    "id": "rainbow",
+    "file": "rainbow.jpg",
+    "words": [
+      "rainbow"
+    ],
+    "altZh": "彩虹",
+    "captionZh": "真实摄影 · 彩虹",
+    "wordCuesZh": {
+      "rainbow": "彩虹：观察照片中的彩虹"
+    },
+    "author": "Eric Rolph at English Wikipedia",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg",
+    "width": 640,
+    "height": 336,
+    "imageTitle": "Double-alaskan-rainbow.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "734a9e0dec4a9bf193e91424d9e4f3d73ecc4dc90cd60e7957df557461a9aa7c",
+    "attribution": "Double-alaskan-rainbow.jpg — Eric Rolph at English Wikipedia; CC BY-SA 2.5. https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg"
+  },
+  {
+    "id": "lightning",
+    "file": "lightning.jpg",
+    "words": [
+      "lightning"
+    ],
+    "altZh": "闪电",
+    "captionZh": "真实摄影 · 闪电",
+    "wordCuesZh": {
+      "lightning": "闪电：观察照片中的闪电"
+    },
+    "author": "Maxime Raynal from France",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg",
+    "width": 640,
+    "height": 360,
+    "imageTitle": "Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "6fc6fc06208ba10a2969889013e3f043cedebf1722229144bc598c90e7869450",
+    "attribution": "Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg — Maxime Raynal from France; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg"
+  },
+  {
+    "id": "rose",
+    "file": "rose.jpg",
+    "words": [
+      "rose",
+      "petal",
+      "leaf",
+      "pink"
+    ],
+    "altZh": "玫瑰",
+    "captionZh": "真实摄影 · 玫瑰",
+    "wordCuesZh": {
+      "rose": "玫瑰：观察照片中的玫瑰",
+      "petal": "花瓣：观察粉红色的花瓣",
+      "leaf": "叶子：花朵周围的绿色叶片",
+      "pink": "粉红色：观察野玫瑰花瓣的颜色"
+    },
+    "author": "Stan Shebs",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosa_rubiginosa_1.jpg",
+    "width": 640,
+    "height": 594,
+    "imageTitle": "Rosa_rubiginosa_1.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "60e44d1eb346fe25b52730d25c2fd8e7988353d9df77dfd7281243f834f9417f",
+    "attribution": "Rosa_rubiginosa_1.jpg — Stan Shebs; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Rosa_rubiginosa_1.jpg"
+  },
+  {
+    "id": "bamboo",
+    "file": "bamboo.jpg",
+    "words": [
+      "bamboo",
+      "green"
+    ],
+    "altZh": "竹子",
+    "captionZh": "真实摄影 · 竹子",
+    "wordCuesZh": {
+      "bamboo": "竹子：观察照片中的竹子",
+      "green": "绿色：观察竹林中绿色的叶子"
+    },
+    "author": "Kamakura",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamboo_forest.jpg",
+    "width": 480,
+    "height": 640,
+    "imageTitle": "Bamboo_forest.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "1832d796ba61dcf29ed4d97c45a226bf25f7af06db85f5b636cefb7b76d53f32",
+    "attribution": "Bamboo_forest.jpg — Kamakura; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Bamboo_forest.jpg"
+  },
+  {
+    "id": "butterfly",
+    "file": "butterfly.jpg",
+    "words": [
+      "butterfly"
+    ],
+    "altZh": "蝴蝶",
+    "captionZh": "真实摄影 · 蝴蝶",
+    "wordCuesZh": {
+      "butterfly": "蝴蝶：观察照片中的蝴蝶"
+    },
+    "author": "fesoj",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fesoj_-_Papilio_machaon_(by).jpg",
+    "width": 640,
+    "height": 640,
+    "imageTitle": "Fesoj_-_Papilio_machaon_(by).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "eb00c6cfeceef9a265c205f2e07345852ecd41d2210c563349b1bb9c03ed37ee",
+    "attribution": "Fesoj_-_Papilio_machaon_(by).jpg — fesoj; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Fesoj_-_Papilio_machaon_(by).jpg"
+  },
+  {
+    "id": "spider",
+    "file": "spider.jpg",
+    "words": [
+      "spider"
+    ],
+    "altZh": "蜘蛛",
+    "captionZh": "真实摄影 · 蜘蛛",
+    "wordCuesZh": {
+      "spider": "蜘蛛：观察照片中的蜘蛛"
+    },
+    "author": "Michael Gäbler",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Araneus_diadematus_(Clerck,_1757).JPG",
+    "width": 640,
+    "height": 412,
+    "imageTitle": "Araneus_diadematus_(Clerck,_1757).JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "aad776e53bc0ff9e5ff1cb2e6eb99b9c66ce7f08a01bdae98b53e74a7afb99a8",
+    "attribution": "Araneus_diadematus_(Clerck,_1757).JPG — Michael Gäbler; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Araneus_diadematus_(Clerck,_1757).JPG"
+  },
+  {
+    "id": "snail",
+    "file": "snail.jpg",
+    "words": [
+      "snail",
+      "shell",
+      "spiral"
+    ],
+    "altZh": "蜗牛",
+    "captionZh": "真实摄影 · 蜗牛",
+    "wordCuesZh": {
+      "snail": "蜗牛：观察照片中的蜗牛",
+      "shell": "壳：蜗牛背上的螺旋形外壳",
+      "spiral": "螺旋：观察蜗牛壳盘旋的纹理"
+    },
+    "author": "Geierunited",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snail.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Snail.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "d0d6204dfcc984c896e8329013cf03f19cc7f49e46f2217d3a3890b0fdf194cf",
+    "attribution": "Snail.jpg — Geierunited; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Snail.jpg"
+  },
+  {
+    "id": "frog",
+    "file": "frog.jpg",
+    "words": [
+      "frog"
+    ],
+    "altZh": "青蛙",
+    "captionZh": "真实摄影 · 青蛙",
+    "wordCuesZh": {
+      "frog": "青蛙：观察照片中的青蛙"
+    },
+    "author": "Charlie Jackson",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red-eyed_Leaf_Frog_(49661076226).jpg",
+    "width": 640,
+    "height": 457,
+    "imageTitle": "Red-eyed_Leaf_Frog_(49661076226).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "d7190ff793ab2f8e25ca237c1e2cac305c79d3c924b1dfa81ea868dd548294fc",
+    "attribution": "Red-eyed_Leaf_Frog_(49661076226).jpg — Charlie Jackson; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Red-eyed_Leaf_Frog_(49661076226).jpg"
+  },
+  {
+    "id": "crocodile",
+    "file": "crocodile.jpg",
+    "words": [
+      "crocodile",
+      "reptile"
+    ],
+    "altZh": "鳄鱼",
+    "captionZh": "真实摄影 · 鳄鱼",
+    "wordCuesZh": {
+      "crocodile": "鳄鱼：观察照片中的鳄鱼",
+      "reptile": "爬行动物：图中的鳄鱼是一种爬行动物"
+    },
+    "author": "Leigh Bedford",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nile_crocodile_head.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Nile_crocodile_head.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "16d6ac3468ec48513d98fe7ef375790d86cc8ba2307e31005c3ec93df4066063",
+    "attribution": "Nile_crocodile_head.jpg — Leigh Bedford; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Nile_crocodile_head.jpg"
+  },
+  {
+    "id": "lion",
+    "file": "lion.jpg",
+    "words": [
+      "lion",
+      "fur",
+      "paw"
+    ],
+    "altZh": "狮子",
+    "captionZh": "真实摄影 · 狮子",
+    "wordCuesZh": {
+      "lion": "狮子：观察照片中的狮子",
+      "fur": "毛皮：狮子身体表面的浓密毛发",
+      "paw": "爪：狮子伸在身前的前爪"
+    },
+    "author": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "93bca8deb89f7e03443c782589d240acf618e56b8e3488b53520eb7031c7bc5e",
+    "attribution": "020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg — Giles Laurent; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "id": "tiger",
+    "file": "tiger.jpg",
+    "words": [
+      "tiger",
+      "stripe"
+    ],
+    "altZh": "老虎",
+    "captionZh": "真实摄影 · 老虎",
+    "wordCuesZh": {
+      "tiger": "老虎：观察照片中的老虎",
+      "stripe": "条纹：观察老虎身体上一条条深色花纹"
+    },
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "e1f1e419cf943c53099a77d59d0e2e3eb4bb0f86b71189f068ce61e0dc8ead3d",
+    "attribution": "Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg — Charles J. Sharp; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg"
+  },
+  {
+    "id": "camel",
+    "file": "camel.jpg",
+    "words": [
+      "camel"
+    ],
+    "altZh": "骆驼",
+    "captionZh": "真实摄影 · 骆驼",
+    "wordCuesZh": {
+      "camel": "骆驼：观察照片中的骆驼"
+    },
+    "author": "Jjron",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:07._Camel_Profile,_near_Silverton,_NSW,_07.07.2007.jpg",
+    "width": 520,
+    "height": 640,
+    "imageTitle": "07._Camel_Profile,_near_Silverton,_NSW,_07.07.2007.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "a67b1518aa0deb62487fa48f10b237236830bda21605504edfb8f4c213d757d8",
+    "attribution": "07._Camel_Profile,_near_Silverton,_NSW,_07.07.2007.jpg — Jjron; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:07._Camel_Profile,_near_Silverton,_NSW,_07.07.2007.jpg"
+  },
+  {
+    "id": "horse",
+    "file": "horse.jpg",
+    "words": [
+      "horse",
+      "tail"
+    ],
+    "altZh": "马",
+    "captionZh": "真实摄影 · 马",
+    "wordCuesZh": {
+      "horse": "马：观察照片中的马",
+      "tail": "尾巴：观察马身体后部垂下的长尾"
+    },
+    "author": "Nokota_Horses.jpg: François Marchal\nderivative work: Dana boomer (talk)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nokota_Horses_cropped.jpg",
+    "width": 529,
+    "height": 364,
+    "imageTitle": "Nokota_Horses_cropped.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "5e7a4db31d15f663c3565db8bc235534fb0e6909f57cb72627a0d5a640cbba6f",
+    "attribution": "Nokota_Horses_cropped.jpg — Nokota_Horses.jpg: François Marchal\nderivative work: Dana boomer (talk); CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Nokota_Horses_cropped.jpg"
+  },
+  {
+    "id": "sheep",
+    "file": "sheep.jpg",
+    "words": [
+      "sheep",
+      "flock",
+      "wool"
+    ],
+    "altZh": "绵羊",
+    "captionZh": "真实摄影 · 绵羊",
+    "wordCuesZh": {
+      "sheep": "绵羊：观察照片中的绵羊",
+      "flock": "羊群：聚在一起的多只绵羊",
+      "wool": "羊毛：绵羊身上厚密的毛"
+    },
+    "author": "Keith Weller",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flock_of_sheep.jpg",
+    "width": 421,
+    "height": 640,
+    "imageTitle": "Flock_of_sheep.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "9070fdb94b1b2dd53f820834ba77ac50eeaef3a4249fc214d3fbcf34e9a4224f",
+    "attribution": "Flock_of_sheep.jpg — Keith Weller; Public domain. https://commons.wikimedia.org/wiki/File:Flock_of_sheep.jpg"
+  },
+  {
+    "id": "goat",
+    "file": "goat.jpg",
+    "words": [
+      "goat",
+      "horn"
+    ],
+    "altZh": "山羊",
+    "captionZh": "真实摄影 · 山羊",
+    "wordCuesZh": {
+      "goat": "山羊：观察照片中的山羊",
+      "horn": "角：山羊头顶向后弯曲的角"
+    },
+    "author": "Kuebi = Armin Kübelbeck",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hausziege_04.jpg",
+    "width": 640,
+    "height": 640,
+    "imageTitle": "Hausziege_04.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "7a734d0adbd55e44f5b6f34c72fc59f1fcdaa638267fd07ceb2fd3bd1b65a4df",
+    "attribution": "Hausziege_04.jpg — Kuebi = Armin Kübelbeck; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Hausziege_04.jpg"
+  },
+  {
+    "id": "rabbit",
+    "file": "rabbit.jpg",
+    "words": [
+      "rabbit"
+    ],
+    "altZh": "兔子",
+    "captionZh": "真实摄影 · 兔子",
+    "wordCuesZh": {
+      "rabbit": "兔子：观察照片中的兔子"
+    },
+    "author": "JM Ligero Loarte",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oryctolagus_cuniculus_Rcdo.jpg",
+    "width": 517,
+    "height": 640,
+    "imageTitle": "Oryctolagus_cuniculus_Rcdo.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "f3b9c4ad6f88ae7882fa7bfd86d5ffd186e69b81dd6dc51dec9fe152752e4cf7",
+    "attribution": "Oryctolagus_cuniculus_Rcdo.jpg — JM Ligero Loarte; CC BY 3.0. https://commons.wikimedia.org/wiki/File:Oryctolagus_cuniculus_Rcdo.jpg"
+  },
+  {
+    "id": "owl",
+    "file": "owl.jpg",
+    "words": [
+      "owl"
+    ],
+    "altZh": "猫头鹰",
+    "captionZh": "真实摄影 · 猫头鹰",
+    "wordCuesZh": {
+      "owl": "猫头鹰：观察照片中的猫头鹰"
+    },
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bubo_bubo_sibiricus_-_01.JPG",
+    "width": 427,
+    "height": 640,
+    "imageTitle": "Bubo_bubo_sibiricus_-_01.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "3b311fb895a123176c24abaefa49335bdb7c9ab25bc5097703fb368992b49606",
+    "attribution": "Bubo_bubo_sibiricus_-_01.JPG — Carlos Delgado; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Bubo_bubo_sibiricus_-_01.JPG"
+  },
+  {
+    "id": "duck",
+    "file": "duck.jpg",
+    "words": [
+      "duck",
+      "feather"
+    ],
+    "altZh": "鸭子",
+    "captionZh": "真实摄影 · 鸭子",
+    "wordCuesZh": {
+      "duck": "鸭子：观察照片中的鸭子",
+      "feather": "羽毛：鸭子身体表面的黑白羽毛"
+    },
+    "author": "Mdf",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bucephala-albeola-010.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Bucephala-albeola-010.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "af2e95aa78a3671ed54f2586cb73707b0d387ded48026ea804e66b20ebd5db46",
+    "attribution": "Bucephala-albeola-010.jpg — Mdf; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Bucephala-albeola-010.jpg"
+  },
+  {
+    "id": "swan",
+    "file": "swan.jpg",
+    "words": [
+      "swan"
+    ],
+    "altZh": "天鹅",
+    "captionZh": "真实摄影 · 天鹅",
+    "wordCuesZh": {
+      "swan": "天鹅：观察照片中的天鹅"
+    },
+    "author": "Geni",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mute_Swan_Emsworth2.JPG",
+    "width": 640,
+    "height": 485,
+    "imageTitle": "Mute_Swan_Emsworth2.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "f76c86ff195f25df6106f636becbf1db550f91da57f8fdba64c92085e65bd241",
+    "attribution": "Mute_Swan_Emsworth2.JPG — Geni; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Mute_Swan_Emsworth2.JPG"
+  },
+  {
+    "id": "shark",
+    "file": "shark.jpg",
+    "words": [
+      "shark"
+    ],
+    "altZh": "鲨鱼",
+    "captionZh": "真实摄影 · 鲨鱼",
+    "wordCuesZh": {
+      "shark": "鲨鱼：观察照片中的鲨鱼"
+    },
+    "author": "NOAA Photo Library",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corl0207_(28225976491).jpg",
+    "width": 640,
+    "height": 360,
+    "imageTitle": "Corl0207_(28225976491).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "38f43460223320b05264b88488630bfb72ba4ad066eebcddf649f6ef1ea024a8",
+    "attribution": "Corl0207_(28225976491).jpg — NOAA Photo Library; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Corl0207_(28225976491).jpg"
+  },
+  {
+    "id": "crab",
+    "file": "crab.jpg",
+    "words": [
+      "crab",
+      "claw"
+    ],
+    "altZh": "螃蟹",
+    "captionZh": "真实摄影 · 螃蟹",
+    "wordCuesZh": {
+      "crab": "螃蟹：观察照片中的螃蟹",
+      "claw": "螯：螃蟹前方用来夹持物体的钳状肢体"
+    },
+    "author": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cancer_pagurus.jpg",
+    "width": 640,
+    "height": 481,
+    "imageTitle": "Cancer_pagurus.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "c7f41ce363322e94c0f48b10eef6a533f32fb04ff63f7b5680a69e8fed4fd238",
+    "attribution": "Cancer_pagurus.jpg — Hans Hillewaert; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Cancer_pagurus.jpg"
+  },
+  {
+    "id": "guitar",
+    "file": "guitar.jpg",
+    "words": [
+      "guitar",
+      "string"
+    ],
+    "altZh": "吉他",
+    "captionZh": "真实摄影 · 吉他",
+    "wordCuesZh": {
+      "guitar": "吉他：观察照片中的吉他",
+      "string": "琴弦：观察吉他琴颈与琴身上绷紧的细弦"
+    },
+    "author": "User:Martin Möller Talk",
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GuitareClassique5.png",
+    "width": 391,
+    "height": 640,
+    "imageTitle": "GuitareClassique5.png",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "8ead686769ac2ae2bc7e7e41ee4012183febfbee2d97b4a100bf08e1548966c0",
+    "attribution": "GuitareClassique5.png — User:Martin Möller Talk; CC BY-SA 2.0 de. https://commons.wikimedia.org/wiki/File:GuitareClassique5.png"
+  },
+  {
+    "id": "violin",
+    "file": "violin.jpg",
+    "words": [
+      "violin",
+      "instrument"
+    ],
+    "altZh": "小提琴",
+    "captionZh": "真实摄影 · 小提琴",
+    "wordCuesZh": {
+      "violin": "小提琴：观察照片中的小提琴",
+      "instrument": "乐器：图中的小提琴是弦乐器"
+    },
+    "author": "Just plain Bill",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Violin_VL100.png",
+    "width": 471,
+    "height": 640,
+    "imageTitle": "Violin_VL100.png",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "e9e57ab384fb01919a4ddaf529a5bc532c7abd38f2248181b863f6d2974cb004",
+    "attribution": "Violin_VL100.png — Just plain Bill; CC0. https://commons.wikimedia.org/wiki/File:Violin_VL100.png"
+  },
+  {
+    "id": "piano",
+    "file": "piano.jpg",
+    "words": [
+      "piano"
+    ],
+    "altZh": "钢琴",
+    "captionZh": "真实摄影 · 钢琴",
+    "wordCuesZh": {
+      "piano": "钢琴：观察照片中的钢琴"
+    },
+    "author": "Gryffindor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steinway_Vienna_002.JPG",
+    "width": 538,
+    "height": 640,
+    "imageTitle": "Steinway_Vienna_002.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "db31eeac562b9ed3545ce3ee65a8b3ca1ae5c1bd338f513d6a260b7f83b1c4e7",
+    "attribution": "Steinway_Vienna_002.JPG — Gryffindor; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Steinway_Vienna_002.JPG"
+  },
+  {
+    "id": "trumpet",
+    "file": "trumpet.jpg",
+    "words": [
+      "trumpet"
+    ],
+    "altZh": "小号",
+    "captionZh": "真实摄影 · 小号",
+    "wordCuesZh": {
+      "trumpet": "小号：观察照片中的小号"
+    },
+    "author": "Yamaha Corporation",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yamaha_Trumpet_YTR-8335LA_crop.jpg",
+    "width": 640,
+    "height": 349,
+    "imageTitle": "Yamaha_Trumpet_YTR-8335LA_crop.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "c8330ed926e891eaab7ece59387af0e0f48633bd17449e159c854d1e4f7b009a",
+    "attribution": "Yamaha_Trumpet_YTR-8335LA_crop.jpg — Yamaha Corporation; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Yamaha_Trumpet_YTR-8335LA_crop.jpg"
+  },
+  {
+    "id": "telescope",
+    "file": "telescope.jpg",
+    "words": [
+      "telescope"
+    ],
+    "altZh": "望远镜",
+    "captionZh": "真实摄影 · 望远镜",
+    "wordCuesZh": {
+      "telescope": "望远镜：观察照片中的望远镜"
+    },
+    "author": "Andrew Dunn",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:100inchHooker.jpg",
+    "width": 392,
+    "height": 640,
+    "imageTitle": "100inchHooker.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "1cfd751e5b2e8d6db95af9c8f59b587d4f54feb5c5adaebb62d041c065ed42e3",
+    "attribution": "100inchHooker.jpg — Andrew Dunn; CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:100inchHooker.jpg"
+  },
+  {
+    "id": "microscope",
+    "file": "microscope.jpg",
+    "words": [
+      "microscope"
+    ],
+    "altZh": "显微镜",
+    "captionZh": "真实摄影 · 显微镜",
+    "wordCuesZh": {
+      "microscope": "显微镜：观察照片中的显微镜"
+    },
+    "author": "Ann 2000",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ukrainian_microscope_(cropped).jpg",
+    "width": 637,
+    "height": 640,
+    "imageTitle": "Ukrainian_microscope_(cropped).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "737b7420345ee9cb76d7a365aec6786cd2229f7cbcee96170763952ed84b50cb",
+    "attribution": "Ukrainian_microscope_(cropped).jpg — Ann 2000; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Ukrainian_microscope_(cropped).jpg"
+  },
+  {
+    "id": "compass",
+    "file": "compass.jpg",
+    "words": [
+      "compass",
+      "circular"
+    ],
+    "altZh": "指南针",
+    "captionZh": "真实摄影 · 指南针",
+    "wordCuesZh": {
+      "compass": "指南针：观察照片中的指南针",
+      "circular": "圆形的：指南针的表盘是圆形"
+    },
+    "author": "Jacek Halicki",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Busola.JPG",
+    "width": 640,
+    "height": 576,
+    "imageTitle": "2016_Busola.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "6ac014070997fc2238a6da34ce91c3325c82de2c2cb6998612c142294010fa3e",
+    "attribution": "2016_Busola.JPG — Jacek Halicki; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2016_Busola.JPG"
+  },
+  {
+    "id": "thermometer",
+    "file": "thermometer.jpg",
+    "words": [
+      "thermometer"
+    ],
+    "altZh": "温度计",
+    "captionZh": "真实摄影 · 温度计",
+    "wordCuesZh": {
+      "thermometer": "温度计：观察照片中的温度计"
+    },
+    "author": "Anonimski",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercury_Thermometer.jpg",
+    "width": 297,
+    "height": 640,
+    "imageTitle": "Mercury_Thermometer.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "379dea622be5b52a174bcfdb280fe9a795525f29139160a9cd0636121c74b3c5",
+    "attribution": "Mercury_Thermometer.jpg — Anonimski; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Mercury_Thermometer.jpg"
+  },
+  {
+    "id": "scissors",
+    "file": "scissors.jpg",
+    "words": [
+      "scissors",
+      "blade",
+      "handle"
+    ],
+    "altZh": "剪刀",
+    "captionZh": "真实摄影 · 剪刀",
+    "wordCuesZh": {
+      "scissors": "剪刀：观察照片中的剪刀",
+      "blade": "刀刃：剪刀前端用于剪切的两片刀刃",
+      "handle": "柄：剪刀后端供手指握持的环形部分"
+    },
+    "author": "Doggerelblogger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Standard_household_scissors.jpg",
+    "width": 640,
+    "height": 640,
+    "imageTitle": "Standard_household_scissors.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "679c8010a3a02804ce18b8fcf3a686d52fc6a5e33886967065e71c7227d82335",
+    "attribution": "Standard_household_scissors.jpg — Doggerelblogger; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Standard_household_scissors.jpg"
+  },
+  {
+    "id": "suitcase",
+    "file": "suitcase.jpg",
+    "words": [
+      "suitcase",
+      "luggage",
+      "baggage"
+    ],
+    "altZh": "行李箱",
+    "captionZh": "真实摄影 · 行李箱",
+    "wordCuesZh": {
+      "suitcase": "行李箱：观察照片中的行李箱",
+      "luggage": "行李：图中是一件旅行箱",
+      "baggage": "行李：图中是一件旅行箱"
+    },
+    "author": "JEXP",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suitcase1.jpg",
+    "width": 528,
+    "height": 640,
+    "imageTitle": "Suitcase1.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "1c99ed652845b2ad6614be11f3c0c62c00719236c0d90a29a3094be8269a9011",
+    "attribution": "Suitcase1.jpg — JEXP; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Suitcase1.jpg"
+  },
+  {
+    "id": "candle",
+    "file": "candle.jpg",
+    "words": [
+      "candle",
+      "flame",
+      "wax"
+    ],
+    "altZh": "蜡烛",
+    "captionZh": "真实摄影 · 蜡烛",
+    "wordCuesZh": {
+      "candle": "蜡烛：观察照片中的蜡烛",
+      "flame": "火焰：蜡烛顶端燃烧的亮光",
+      "wax": "蜡：制成白色蜡烛柱体的材料"
+    },
+    "author": "LA2",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:LA2_Skultuna_kontorsljusstake.jpg",
+    "width": 507,
+    "height": 640,
+    "imageTitle": "LA2_Skultuna_kontorsljusstake.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "aad60b58f9ee9a2724750e90558c1fc754300c1345e2dbc49c42bc7e3223589c",
+    "attribution": "LA2_Skultuna_kontorsljusstake.jpg — LA2; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:LA2_Skultuna_kontorsljusstake.jpg"
+  },
+  {
+    "author": "MCaviglia, digimen.ch",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SingaporeSkyline.jpg",
+    "altZh": "新加坡中央商务区的高楼与滨水建筑",
+    "id": "scene-city",
+    "file": "scene-city.jpg",
+    "words": [
+      "city",
+      "urban",
+      "skyscraper",
+      "architecture"
+    ],
+    "captionZh": "新加坡中央商务区的高楼与滨水建筑",
+    "wordCuesZh": {
+      "city": "照片展示新加坡市区的密集建筑",
+      "urban": "城市的：观察密集的高楼与街区",
+      "skyscraper": "摩天楼：看画面中高耸的建筑",
+      "architecture": "建筑：观察高楼的外形与结构"
+    },
+    "width": 640,
+    "height": 394,
+    "changes": "Resized to maximum 640 pixels; JPEG re-encoded.",
+    "sha256": "b39732b910cc9f775e821bd25843b16ddf8ccec6219a894dc664359a9b57a64f",
+    "attribution": "新加坡中央商务区的高楼与滨水建筑 — MCaviglia, digimen.ch; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:SingaporeSkyline.jpg"
+  },
+  {
+    "author": "Neil A. Armstrong / NASA",
+    "license": "Public domain (NASA)",
+    "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aldrin_Apollo_11.jpg",
+    "altZh": "阿波罗 11 号任务中站在月球表面的巴兹·奥尔德林",
+    "id": "scene-space",
+    "file": "scene-space.jpg",
+    "words": [
+      "astronaut",
+      "lunar",
+      "space"
+    ],
+    "captionZh": "阿波罗 11 号任务中站在月球表面的巴兹·奥尔德林",
+    "wordCuesZh": {
+      "astronaut": "宇航员：身穿宇航服的阿波罗11号宇航员",
+      "lunar": "月球的：宇航员站在月球表面",
+      "space": "太空：阿波罗11号月球任务实景"
+    },
+    "width": 640,
+    "height": 640,
+    "changes": "Resized to maximum 640 pixels; JPEG re-encoded.",
+    "sha256": "5b68fa1bb6bad105c1fc22919e2ee58f3cec7ab857b90e60388c755e98ed6b13",
+    "attribution": "阿波罗 11 号任务中站在月球表面的巴兹·奥尔德林 — Neil A. Armstrong / NASA; Public domain (NASA). https://commons.wikimedia.org/wiki/File:Aldrin_Apollo_11.jpg"
+  },
+  {
+    "author": "Sara Löwgren",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunlight_in_Yosemite_forest.jpg",
+    "altZh": "阳光穿过优胜美地森林的树木",
+    "id": "scene-forest",
+    "file": "scene-forest.jpg",
+    "words": [
+      "forest",
+      "tree",
+      "trunk",
+      "sunlight"
+    ],
+    "captionZh": "阳光穿过优胜美地森林的树木",
+    "wordCuesZh": {
+      "forest": "森林：大片树木生长的地方",
+      "tree": "树：画面中竖立的树木",
+      "trunk": "树干：观察前景粗壮的树干",
+      "sunlight": "阳光：穿过林间的光束"
+    },
+    "width": 640,
+    "height": 427,
+    "changes": "Resized to maximum 640 pixels; JPEG re-encoded.",
+    "sha256": "6a56e6aa03817c3ccc04df07e5e7d8c711751d4dc7f16db25cf1ef94311a2f8a",
+    "attribution": "阳光穿过优胜美地森林的树木 — Sara Löwgren; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Sunlight_in_Yosemite_forest.jpg"
+  },
+  {
+    "author": "Matthew Petroff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:George-peabody-library.jpg",
+    "altZh": "乔治·皮博迪图书馆的多层书架与阅览桌",
+    "id": "scene-library",
+    "file": "scene-library.jpg",
+    "words": [
+      "library",
+      "book",
+      "bookshelf",
+      "shelf",
+      "balcony"
+    ],
+    "captionZh": "乔治·皮博迪图书馆的多层书架与阅览桌",
+    "wordCuesZh": {
+      "library": "图书馆：多层藏书与阅览区",
+      "book": "书：两侧书架上排列的书籍",
+      "bookshelf": "书架：两侧用来摆放书的架子",
+      "shelf": "搁架：观察一层层承放书籍的架板",
+      "balcony": "楼台：图书馆一层层环绕藏书区的开放式楼台"
+    },
+    "width": 640,
+    "height": 480,
+    "changes": "Resized to maximum 640 pixels; JPEG re-encoded.",
+    "sha256": "73e3bb66cd81f7f158a248c5d8d5abfd058b83f058e34ef4ae33972683b30d50",
+    "attribution": "乔治·皮博迪图书馆的多层书架与阅览桌 — Matthew Petroff; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:George-peabody-library.jpg"
+  },
+  {
+    "author": "Onkel Tuca!",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parthenon.JPG",
+    "altZh": "雅典帕特农神庙的石柱与遗迹",
+    "id": "scene-archaeology",
+    "file": "scene-archaeology.jpg",
+    "words": [
+      "temple",
+      "pillar",
+      "column",
+      "ruin",
+      "ancient",
+      "archaeological"
+    ],
+    "captionZh": "雅典帕特农神庙的石柱与遗迹",
+    "wordCuesZh": {
+      "temple": "神庙：雅典帕特农神庙遗迹",
+      "pillar": "柱子：支撑建筑的竖直石柱",
+      "column": "柱：观察一列列圆形石柱",
+      "ruin": "遗迹：留存至今的古代神庙建筑",
+      "ancient": "古代的：建于古希腊时期的神庙",
+      "archaeological": "考古的：古希腊建筑遗迹"
+    },
+    "width": 640,
+    "height": 427,
+    "changes": "Resized to maximum 640 pixels; JPEG re-encoded.",
+    "sha256": "c195e45011d125676a2d48caea449f3e9be906fd4b19304fc0b3ba6201595bab",
+    "attribution": "雅典帕特农神庙的石柱与遗迹 — Onkel Tuca!; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Parthenon.JPG"
+  },
+  {
+    "author": "Apm.ceg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_honey_bee_on_a_flower.jpg",
+    "altZh": "黄花间的一只蜜蜂与周围植被",
+    "id": "scene-pollination",
+    "file": "scene-pollination.jpg",
+    "words": [
+      "flower",
+      "blossom"
+    ],
+    "captionZh": "黄花间的一只蜜蜂与周围植被",
+    "wordCuesZh": {
+      "flower": "花：观察黄色的花朵",
+      "blossom": "花朵：观察已经绽开的黄色花瓣"
+    },
+    "width": 640,
+    "height": 480,
+    "changes": "Resized to maximum 640 pixels; JPEG re-encoded.",
+    "sha256": "521f0ef6c8d622c5e179c7b58868e58025bcd119b5360a57c4d25aaeb76ab7cc",
+    "attribution": "黄花间的一只蜜蜂与周围植被 — Apm.ceg; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:A_honey_bee_on_a_flower.jpg"
+  },
+  {
+    "author": "APK",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_from_Hopi_Point.jpg",
+    "altZh": "从霍皮角远望大峡谷的岩层与云层",
+    "id": "scene-geology",
+    "file": "scene-geology.jpg",
+    "words": [
+      "cliff",
+      "rock",
+      "geology",
+      "landscape",
+      "valley"
+    ],
+    "captionZh": "从霍皮角远望大峡谷的岩层与云层",
+    "wordCuesZh": {
+      "cliff": "悬崖：峡谷中陡直的岩壁",
+      "rock": "岩石：峡谷外露的层状岩体",
+      "geology": "地质：观察大峡谷的岩层",
+      "landscape": "风景：远眺大峡谷的地貌景色",
+      "valley": "山谷：两侧岩壁之间的低洼谷地"
+    },
+    "width": 640,
+    "height": 274,
+    "changes": "Resized to maximum 640 pixels; JPEG re-encoded.",
+    "sha256": "d11178625649858c4b18a0e66dbdbccb86a50e529725997380892c40c12660ed",
+    "attribution": "从霍皮角远望大峡谷的岩层与云层 — APK; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Grand_Canyon_from_Hopi_Point.jpg"
+  },
+  {
+    "author": "Mediastudent2001",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coral_from_the_Great_Barrier_Reef.jpg",
+    "altZh": "大堡礁水下的珊瑚群与鱼群",
+    "id": "scene-coral",
+    "file": "scene-coral.jpg",
+    "words": [
+      "reef",
+      "fish",
+      "marine"
+    ],
+    "captionZh": "大堡礁水下的珊瑚群与鱼群",
+    "wordCuesZh": {
+      "reef": "礁：水下的珊瑚礁群",
+      "fish": "鱼：珊瑚上方游动的鱼群",
+      "marine": "海洋的：观察海水中的珊瑚礁环境"
+    },
+    "width": 427,
+    "height": 640,
+    "changes": "Resized to maximum 640 pixels; JPEG re-encoded.",
+    "sha256": "279ec5c1dbaaefe69e9f3625b7a6ff488eac83367c84f73fab489c6ea6e813a9",
+    "attribution": "大堡礁水下的珊瑚群与鱼群 — Mediastudent2001; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Coral_from_the_Great_Barrier_Reef.jpg"
+  },
+  {
+    "author": "Ex-Smith",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reichstag_Building.jpg",
+    "altZh": "柏林德国国会大厦的正面建筑",
+    "id": "scene-civic",
+    "file": "scene-civic.jpg",
+    "words": [
+      "parliament",
+      "building"
+    ],
+    "captionZh": "柏林德国国会大厦的正面建筑",
+    "wordCuesZh": {
+      "parliament": "议会：德国联邦议会所在地国会大厦",
+      "building": "建筑物：国会大厦的外观"
+    },
+    "width": 640,
+    "height": 480,
+    "changes": "Resized to maximum 640 pixels; JPEG re-encoded.",
+    "sha256": "61d581fe73f5d28562f090390a75f039d76a6519d99edd50e944709221df610f",
+    "attribution": "柏林德国国会大厦的正面建筑 — Ex-Smith; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Reichstag_Building.jpg"
+  },
+  {
+    "author": "Yair Haklai",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Court%2C_British_Museum.jpg",
+    "altZh": "大英博物馆大中庭的玻璃穹顶与公共空间",
+    "id": "scene-culture",
+    "file": "scene-culture.jpg",
+    "words": [
+      "museum",
+      "dome",
+      "glass",
+      "ceiling"
+    ],
+    "captionZh": "大英博物馆大中庭的玻璃穹顶与公共空间",
+    "wordCuesZh": {
+      "museum": "博物馆：大英博物馆的大中庭",
+      "dome": "穹顶：观察上方弯曲的玻璃顶棚",
+      "glass": "玻璃：透光的三角形屋顶面板",
+      "ceiling": "天花板：向上看博物馆大中庭的玻璃顶棚"
+    },
+    "width": 640,
+    "height": 480,
+    "changes": "Resized to maximum 640 pixels; JPEG re-encoded.",
+    "sha256": "7c070747077ea341071c1932b1b2cf96685eeda7eef85591f4cc1dabbd498fc3",
+    "attribution": "大英博物馆大中庭的玻璃穹顶与公共空间 — Yair Haklai; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Great_Court%2C_British_Museum.jpg"
+  },
+  {
+    "id": "ambulance",
+    "file": "ambulance.jpg",
+    "words": [
+      "ambulance"
+    ],
+    "altZh": "救护车",
+    "captionZh": "真实摄影 · 救护车",
+    "wordCuesZh": {
+      "ambulance": "救护车：观察照片中的救护车"
+    },
+    "author": "AleWi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stockholm,_ambulans,_2014,_21.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Stockholm,_ambulans,_2014,_21.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "d0f19cf224663e2660f216b49b89f22560acad8124f7b5820d11202d97e44d9f",
+    "attribution": "Stockholm,_ambulans,_2014,_21.jpg — AleWi; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Stockholm,_ambulans,_2014,_21.jpg"
+  },
+  {
+    "id": "apartment",
+    "file": "apartment.jpg",
+    "words": [
+      "apartment"
+    ],
+    "altZh": "公寓",
+    "captionZh": "真实摄影 · 公寓",
+    "wordCuesZh": {
+      "apartment": "公寓：观察照片中的公寓"
+    },
+    "author": "TheSanFranRacer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019.07.10_metro_California-housing_Blog-post_related.webp",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "2019.07.10_metro_California-housing_Blog-post_related.webp",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "f0514f89882acb8b37ffdf6edce35efc7c983533b59cc2a7a7543bbbbdb3178b",
+    "attribution": "2019.07.10_metro_California-housing_Blog-post_related.webp — TheSanFranRacer; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2019.07.10_metro_California-housing_Blog-post_related.webp"
+  },
+  {
+    "id": "battery",
+    "file": "battery.jpg",
+    "words": [
+      "battery"
+    ],
+    "altZh": "电池",
+    "captionZh": "真实摄影 · 电池",
+    "wordCuesZh": {
+      "battery": "电池：观察照片中的电池"
+    },
+    "author": "en:User:Brianiac",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batteries.jpg",
+    "width": 300,
+    "height": 214,
+    "imageTitle": "Batteries.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "ced6b9c17512828b380ebc38ce6cddbbdeb700a61de1a59ab0918daca8019b33",
+    "attribution": "Batteries.jpg — en:User:Brianiac; Public domain. https://commons.wikimedia.org/wiki/File:Batteries.jpg"
+  },
+  {
+    "id": "brick",
+    "file": "brick.jpg",
+    "words": [
+      "brick"
+    ],
+    "altZh": "砖",
+    "captionZh": "真实摄影 · 砖",
+    "wordCuesZh": {
+      "brick": "砖：观察照片中的砖"
+    },
+    "author": "Andrewlister",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brick.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Brick.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "7e7b7509126e4e25f67d6a89a99a01b0fe890e5a8522d629a9f8adfbb66677c6",
+    "attribution": "Brick.jpg — Andrewlister; Public domain. https://commons.wikimedia.org/wiki/File:Brick.jpg"
+  },
+  {
+    "id": "camera",
+    "file": "camera.jpg",
+    "words": [
+      "camera",
+      "lens"
+    ],
+    "altZh": "照相机",
+    "captionZh": "真实摄影 · 照相机",
+    "wordCuesZh": {
+      "camera": "照相机：观察照片中的照相机",
+      "lens": "镜头：照相机正面圆形的光学组件"
+    },
+    "author": "Kameraprojekt Graz 2015",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:LEI0440_Leica_IIIf_chrom_-_Sn._580566_1951-52-M39_Blitzsynchron_front_view-6531_hf-.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "LEI0440_Leica_IIIf_chrom_-_Sn._580566_1951-52-M39_Blitzsynchron_front_view-6531_hf-.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "498ab2e65fd23e7cf0eaec0bea7bf7a84ffcc5fefa1e928d0948cde835046632",
+    "attribution": "LEI0440_Leica_IIIf_chrom_-_Sn._580566_1951-52-M39_Blitzsynchron_front_view-6531_hf-.jpg — Kameraprojekt Graz 2015; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:LEI0440_Leica_IIIf_chrom_-_Sn._580566_1951-52-M39_Blitzsynchron_front_view-6531_hf-.jpg"
+  },
+  {
+    "id": "chair",
+    "file": "chair.jpg",
+    "words": [
+      "chair",
+      "furniture"
+    ],
+    "altZh": "椅子",
+    "captionZh": "真实摄影 · 椅子",
+    "wordCuesZh": {
+      "chair": "椅子：观察照片中的椅子",
+      "furniture": "家具：照片中的椅子是一件家具"
+    },
+    "author": "Thomas Chippendale",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Set_of_fourteen_side_chairs_MET_DP110780.jpg",
+    "width": 619,
+    "height": 640,
+    "imageTitle": "Set_of_fourteen_side_chairs_MET_DP110780.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "2de27f9dfddb6556b89b9d0c39a79e57c8091d4ebac3c05f9d7af547b39c1362",
+    "attribution": "Set_of_fourteen_side_chairs_MET_DP110780.jpg — Thomas Chippendale; CC0. https://commons.wikimedia.org/wiki/File:Set_of_fourteen_side_chairs_MET_DP110780.jpg"
+  },
+  {
+    "id": "clock",
+    "file": "clock.jpg",
+    "words": [
+      "clock"
+    ],
+    "altZh": "时钟",
+    "captionZh": "真实摄影 · 时钟",
+    "wordCuesZh": {
+      "clock": "时钟：观察照片中的时钟"
+    },
+    "author": "Christoph Braun",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+    "width": 468,
+    "height": 640,
+    "imageTitle": "Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "5734648b83343e77ab11943e52dcd7206b17f8d9a72bcdb216e55b9911e2f3aa",
+    "attribution": "Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg — Christoph Braun; CC0. https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg"
+  },
+  {
+    "id": "coin",
+    "file": "coin.jpg",
+    "words": [
+      "coin"
+    ],
+    "altZh": "硬币",
+    "captionZh": "真实摄影 · 硬币",
+    "wordCuesZh": {
+      "coin": "硬币：观察照片中的硬币"
+    },
+    "author": "Michael Sander",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kiloware.JPG",
+    "width": 640,
+    "height": 631,
+    "imageTitle": "Kiloware.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "e3564081824addd99a13fb3e00a080ea5658546e1ce7a47dade548bc57a1f4e1",
+    "attribution": "Kiloware.JPG — Michael Sander; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Kiloware.JPG"
+  },
+  {
+    "id": "computer",
+    "file": "computer.jpg",
+    "words": [
+      "computer"
+    ],
+    "altZh": "早期电子计算机",
+    "captionZh": "真实摄影 · 早期电子计算机",
+    "wordCuesZh": {
+      "computer": "电脑：图中是早期的ENIAC电子计算机"
+    },
+    "author": "M. Weik",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ENIAC-changing_a_tube_(cropped).jpg",
+    "width": 640,
+    "height": 499,
+    "imageTitle": "ENIAC-changing_a_tube_(cropped).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "e2d64208b27746f0fa233ae573d35b771084d8979ef4a824856a43cdf988244d",
+    "attribution": "ENIAC-changing_a_tube_(cropped).jpg — M. Weik; Public domain. https://commons.wikimedia.org/wiki/File:ENIAC-changing_a_tube_(cropped).jpg"
+  },
+  {
+    "id": "cup",
+    "file": "cup.jpg",
+    "words": [
+      "cup"
+    ],
+    "altZh": "杯子",
+    "captionZh": "真实摄影 · 杯子",
+    "wordCuesZh": {
+      "cup": "杯子：观察照片中的杯子"
+    },
+    "author": "Vincennes Porcelain (France, circa 1739–1756), Francois Binet (France, active 1750-1775, born 1731)",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cup_and_Saucer_LACMA_47.35.6a-b_(1_of_3).jpg",
+    "width": 640,
+    "height": 561,
+    "imageTitle": "Cup_and_Saucer_LACMA_47.35.6a-b_(1_of_3).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "513be739df533a15a1c70364e201f96432c86477cd67c2c8f4da7a5a39a16c40",
+    "attribution": "Cup_and_Saucer_LACMA_47.35.6a-b_(1_of_3).jpg — Vincennes Porcelain (France, circa 1739–1756), Francois Binet (France, active 1750-1775, born 1731); Public domain. https://commons.wikimedia.org/wiki/File:Cup_and_Saucer_LACMA_47.35.6a-b_(1_of_3).jpg"
+  },
+  {
+    "id": "curtain",
+    "file": "curtain.jpg",
+    "words": [
+      "curtain"
+    ],
+    "altZh": "窗帘",
+    "captionZh": "真实摄影 · 窗帘",
+    "wordCuesZh": {
+      "curtain": "窗帘：观察照片中的窗帘"
+    },
+    "author": "Nieuw~commonswiki",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gordijnen_aan_venster.JPG",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Gordijnen_aan_venster.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "d3044867ab49a3f8e68939a75ab9252ad27647dcd5b42e3f854ca817aa013455",
+    "attribution": "Gordijnen_aan_venster.JPG — Nieuw~commonswiki; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Gordijnen_aan_venster.JPG"
+  },
+  {
+    "id": "desk",
+    "file": "desk.jpg",
+    "words": [
+      "desk"
+    ],
+    "altZh": "书桌",
+    "captionZh": "真实摄影 · 书桌",
+    "wordCuesZh": {
+      "desk": "书桌：观察照片中的书桌"
+    },
+    "author": "John Townsend",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bureau_table_MET_DP108643.jpg",
+    "width": 640,
+    "height": 640,
+    "imageTitle": "Bureau_table_MET_DP108643.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "5a4e7be9e7207e27421b883df4c1cba228b52105b4a25f1ad767f75eccf3a502",
+    "attribution": "Bureau_table_MET_DP108643.jpg — John Townsend; CC0. https://commons.wikimedia.org/wiki/File:Bureau_table_MET_DP108643.jpg"
+  },
+  {
+    "id": "diamond",
+    "file": "diamond.jpg",
+    "words": [
+      "diamond"
+    ],
+    "altZh": "钻石",
+    "captionZh": "真实摄影 · 钻石",
+    "wordCuesZh": {
+      "diamond": "钻石：观察照片中的钻石"
+    },
+    "author": "DGPC/ADF Luísa Oliveira",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rough_Diamond.jpg",
+    "width": 640,
+    "height": 594,
+    "imageTitle": "Rough_Diamond.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "8ce3accf1d3dfe8793d0f3516638fb9cb53ad1d104151aac62d84a74b08f5275",
+    "attribution": "Rough_Diamond.jpg — DGPC/ADF Luísa Oliveira; CC0. https://commons.wikimedia.org/wiki/File:Rough_Diamond.jpg"
+  },
+  {
+    "id": "drum",
+    "file": "drum.jpg",
+    "words": [
+      "drum"
+    ],
+    "altZh": "鼓",
+    "captionZh": "真实摄影 · 鼓",
+    "wordCuesZh": {
+      "drum": "鼓：观察照片中的鼓"
+    },
+    "author": "NPS",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:DrumMozartRegiment.jpg",
+    "width": 490,
+    "height": 450,
+    "imageTitle": "DrumMozartRegiment.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "f44e2660941d68f10336e5c1f74767c34e025cb03471735c5b00c047eacd0581",
+    "attribution": "DrumMozartRegiment.jpg — NPS; Public domain. https://commons.wikimedia.org/wiki/File:DrumMozartRegiment.jpg"
+  },
+  {
+    "id": "flag",
+    "file": "flag.jpg",
+    "words": [
+      "flag"
+    ],
+    "altZh": "旗帜",
+    "captionZh": "真实摄影 · 旗帜",
+    "wordCuesZh": {
+      "flag": "旗帜：观察照片中的旗帜"
+    },
+    "author": "Tom Page",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:United_Nations_Flags_-_cropped.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "United_Nations_Flags_-_cropped.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "20012d6fa03cd0b02fa6e9b9d3e0477d9237f18eaefbc925fd88862ea124a539",
+    "attribution": "United_Nations_Flags_-_cropped.jpg — Tom Page; CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:United_Nations_Flags_-_cropped.jpg"
+  },
+  {
+    "id": "refrigerator",
+    "file": "refrigerator.jpg",
+    "words": [
+      "refrigerator",
+      "fridge"
+    ],
+    "altZh": "冰箱",
+    "captionZh": "真实摄影 · 冰箱",
+    "wordCuesZh": {
+      "refrigerator": "冰箱：观察照片中的冰箱",
+      "fridge": "冰箱：观察照片中的冰箱"
+    },
+    "author": "W.carter",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Open_refrigerator_with_food_at_night.jpg",
+    "width": 482,
+    "height": 640,
+    "imageTitle": "Open_refrigerator_with_food_at_night.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "63d3629fb407735c2af5b2da47ec69012476e07862edc5939460c51e5a8f3dfe",
+    "attribution": "Open_refrigerator_with_food_at_night.jpg — W.carter; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Open_refrigerator_with_food_at_night.jpg"
+  },
+  {
+    "id": "glove",
+    "file": "glove.jpg",
+    "words": [
+      "glove"
+    ],
+    "altZh": "手套",
+    "captionZh": "真实摄影 · 手套",
+    "wordCuesZh": {
+      "glove": "手套：观察照片中的手套"
+    },
+    "author": "Kippelboy",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Centre_de_Documentaci%C3%B3_Museu_T%C3%A8xtil_de_Terrassa-_Reserves-_Teixits-_Guants002.JPG",
+    "width": 640,
+    "height": 477,
+    "imageTitle": "Centre_de_Documentació_Museu_Tèxtil_de_Terrassa-_Reserves-_Teixits-_Guants002.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "867e2fd450ad1d00943c1915cd8f95ae0d1374a4eb1b7b471a296058c92ec3b1",
+    "attribution": "Centre_de_Documentació_Museu_Tèxtil_de_Terrassa-_Reserves-_Teixits-_Guants002.JPG — Kippelboy; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Centre_de_Documentaci%C3%B3_Museu_T%C3%A8xtil_de_Terrassa-_Reserves-_Teixits-_Guants002.JPG"
+  },
+  {
+    "id": "island",
+    "file": "island.jpg",
+    "words": [
+      "island",
+      "ocean"
+    ],
+    "altZh": "岛屿",
+    "captionZh": "真实摄影 · 岛屿",
+    "wordCuesZh": {
+      "island": "岛屿：观察照片中的岛屿",
+      "ocean": "海洋：卫星照片中环绕岛屿的大片海水"
+    },
+    "author": "Jacques Descloitres",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hawaje-NoRedLine.jpg",
+    "width": 640,
+    "height": 498,
+    "imageTitle": "Hawaje-NoRedLine.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "5d6f4f614b361161cd367c49410bb6ebbff0b7dd0d6492b660185a89304e35cf",
+    "attribution": "Hawaje-NoRedLine.jpg — Jacques Descloitres; Public domain. https://commons.wikimedia.org/wiki/File:Hawaje-NoRedLine.jpg"
+  },
+  {
+    "id": "jacket",
+    "file": "jacket.jpg",
+    "words": [
+      "jacket",
+      "sleeve",
+      "collar"
+    ],
+    "altZh": "夹克",
+    "captionZh": "真实摄影 · 夹克",
+    "wordCuesZh": {
+      "jacket": "夹克：观察照片中的夹克",
+      "sleeve": "袖子：夹克包裹手臂的部分",
+      "collar": "衣领：观察夹克脖子周围翻折的部分"
+    },
+    "author": "Dudesleeper /  Talk",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacket2-1.jpg",
+    "width": 494,
+    "height": 640,
+    "imageTitle": "Jacket2-1.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "d89994dbd1abef261b80139c878a3c404665d9af5f6f31601a203872991bdf2a",
+    "attribution": "Jacket2-1.jpg — Dudesleeper /  Talk; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Jacket2-1.jpg"
+  },
+  {
+    "id": "key",
+    "file": "key.jpg",
+    "words": [
+      "key",
+      "lock"
+    ],
+    "altZh": "锁和钥匙",
+    "captionZh": "真实摄影 · 锁和钥匙",
+    "wordCuesZh": {
+      "key": "锁和钥匙：观察照片中的锁和钥匙",
+      "lock": "锁和钥匙：观察照片中的锁和钥匙"
+    },
+    "author": "Trougnouf",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Solex_99_30_padlock_with_keys_(DSCF2659).jpg",
+    "width": 640,
+    "height": 583,
+    "imageTitle": "Solex_99_30_padlock_with_keys_(DSCF2659).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "6af4e6d1bfbb8ce50866a32db36cc4de411f96d9694edbab456624fad53ee6a5",
+    "attribution": "Solex_99_30_padlock_with_keys_(DSCF2659).jpg — Trougnouf; CC BY 4.0. https://commons.wikimedia.org/wiki/File:Solex_99_30_padlock_with_keys_(DSCF2659).jpg"
+  },
+  {
+    "id": "kitchen",
+    "file": "kitchen.jpg",
+    "words": [
+      "kitchen",
+      "utensil"
+    ],
+    "altZh": "厨房",
+    "captionZh": "真实摄影 · 厨房",
+    "wordCuesZh": {
+      "kitchen": "厨房：观察照片中的厨房",
+      "utensil": "用具：厨房中悬挂和摆放的炊事用具"
+    },
+    "author": "Jean-Pierre Dalbéra from Paris, France",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_cuisine_(mus%C3%A9e_dart_nouveau,_Riga)_(7563655820).jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "La_cuisine_(musée_dart_nouveau,_Riga)_(7563655820).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "e229ae3eee666ee8077159ccc28f68fdc1e9b42a15b2166b27824e699f259ab3",
+    "attribution": "La_cuisine_(musée_dart_nouveau,_Riga)_(7563655820).jpg — Jean-Pierre Dalbéra from Paris, France; CC BY 2.0. https://commons.wikimedia.org/wiki/File:La_cuisine_(mus%C3%A9e_dart_nouveau,_Riga)_(7563655820).jpg"
+  },
+  {
+    "id": "knife",
+    "file": "knife.jpg",
+    "words": [
+      "knife"
+    ],
+    "altZh": "刀",
+    "captionZh": "真实摄影 · 刀",
+    "wordCuesZh": {
+      "knife": "刀：观察照片中的刀"
+    },
+    "author": "Carter Cutlery",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Damascus_Bowie.jpg",
+    "width": 640,
+    "height": 536,
+    "imageTitle": "Damascus_Bowie.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "e64c5e97b0a5735088275eed9c697e8785912b607594461154faab7d18f9c022",
+    "attribution": "Damascus_Bowie.jpg — Carter Cutlery; CC BY 3.0. https://commons.wikimedia.org/wiki/File:Damascus_Bowie.jpg"
+  },
+  {
+    "id": "ladder",
+    "file": "ladder.jpg",
+    "words": [
+      "ladder"
+    ],
+    "altZh": "梯子",
+    "captionZh": "真实摄影 · 梯子",
+    "wordCuesZh": {
+      "ladder": "梯子：观察照片中的梯子"
+    },
+    "author": "Wikideas1",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ladder.webp",
+    "width": 305,
+    "height": 640,
+    "imageTitle": "Ladder.webp",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "788b64c25036593fb4bc3554f5f828fa9ea4b4b6a2d4b6815cdb8407aac9b305",
+    "attribution": "Ladder.webp — Wikideas1; CC0. https://commons.wikimedia.org/wiki/File:Ladder.webp"
+  },
+  {
+    "id": "lake",
+    "file": "lake.jpg",
+    "words": [
+      "lake"
+    ],
+    "altZh": "湖泊",
+    "captionZh": "真实摄影 · 湖泊",
+    "wordCuesZh": {
+      "lake": "湖泊：观察照片中的湖泊"
+    },
+    "author": "No machine-readable author provided. Marius~commonswiki assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Idro_Italy_2005-08-16.jpg",
+    "width": 512,
+    "height": 384,
+    "imageTitle": "Lake_Idro_Italy_2005-08-16.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "b9ac33c46218f6a59299368e4f27b50340dbf7ae7ab46197cbe10deec67d28f8",
+    "attribution": "Lake_Idro_Italy_2005-08-16.jpg — No machine-readable author provided. Marius~commonswiki assumed (based on copyright claims).; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Lake_Idro_Italy_2005-08-16.jpg"
+  },
+  {
+    "id": "lamp",
+    "file": "lamp.jpg",
+    "words": [
+      "lamp",
+      "bulb"
+    ],
+    "altZh": "各式电灯泡",
+    "captionZh": "真实摄影 · 各式电灯泡",
+    "wordCuesZh": {
+      "lamp": "灯：照片展示产生灯光的各式灯泡",
+      "bulb": "灯泡：照片展示不同形状的照明灯泡"
+    },
+    "author": "Hidalgo944",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Light-bulbs.jpg",
+    "width": 640,
+    "height": 615,
+    "imageTitle": "Light-bulbs.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "6782928e31c15f3ec81cc67200da1626cf02dc6927204b15295b2b8d7e277519",
+    "attribution": "Light-bulbs.jpg — Hidalgo944; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Light-bulbs.jpg"
+  },
+  {
+    "id": "mirror",
+    "file": "mirror.jpg",
+    "words": [
+      "mirror",
+      "reflection"
+    ],
+    "altZh": "镜子",
+    "captionZh": "真实摄影 · 镜子",
+    "wordCuesZh": {
+      "mirror": "镜子：观察照片中的镜子",
+      "reflection": "倒影：观察镜中映出的花瓶和周围景物"
+    },
+    "author": "Cgs",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirror.jpg",
+    "width": 300,
+    "height": 308,
+    "imageTitle": "Mirror.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "d111023f88e5fa5516835ddd5165ad26643ba85c62a7795ae4cf36ab3c5cc122",
+    "attribution": "Mirror.jpg — Cgs; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Mirror.jpg"
+  },
+  {
+    "id": "mountain",
+    "file": "mountain.jpg",
+    "words": [
+      "mountain"
+    ],
+    "altZh": "山",
+    "captionZh": "真实摄影 · 山",
+    "wordCuesZh": {
+      "mountain": "山：观察照片中的山"
+    },
+    "author": "Luca Galuzzi (Lucag)",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "6ef55aed8fcc720f001003a4219046ea6af0cbf114f8927b04661e27852fc4d2",
+    "attribution": "Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg — Luca Galuzzi (Lucag); CC BY-SA 2.5. https://commons.wikimedia.org/wiki/File:Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg"
+  },
+  {
+    "id": "mug",
+    "file": "mug.jpg",
+    "words": [
+      "mug"
+    ],
+    "altZh": "马克杯",
+    "captionZh": "真实摄影 · 马克杯",
+    "wordCuesZh": {
+      "mug": "马克杯：观察照片中的马克杯"
+    },
+    "author": "Factorylad",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mug_of_Tea.JPG",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Mug_of_Tea.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "c91bba4eaeb00c6cdd74c5d9871b5ca64a9def3621ca71e060f8a33cb1b56a8b",
+    "attribution": "Mug_of_Tea.JPG — Factorylad; Public domain. https://commons.wikimedia.org/wiki/File:Mug_of_Tea.JPG"
+  },
+  {
+    "id": "needle",
+    "file": "needle.jpg",
+    "words": [
+      "needle"
+    ],
+    "altZh": "缝衣针",
+    "captionZh": "真实摄影 · 缝衣针",
+    "wordCuesZh": {
+      "needle": "缝衣针：观察照片中的缝衣针"
+    },
+    "author": "Thamizhpparithi Maari",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_depiction_of_needle.JPG",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "A_depiction_of_needle.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "da492c35358cde309dc3ac3c10973cb9c9cb98143fc976d646000fd025d6cd07",
+    "attribution": "A_depiction_of_needle.JPG — Thamizhpparithi Maari; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:A_depiction_of_needle.JPG"
+  },
+  {
+    "id": "notebook",
+    "file": "notebook.jpg",
+    "words": [
+      "notebook",
+      "stationery"
+    ],
+    "altZh": "笔记本",
+    "captionZh": "真实摄影 · 笔记本",
+    "wordCuesZh": {
+      "notebook": "笔记本：观察照片中的笔记本",
+      "stationery": "文具：图中是纸质笔记本"
+    },
+    "author": "L.Marie",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Notebooks.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Notebooks.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "bdf6a026d3f7c571c9baeca77f1537e54768c818ab548a7a7d2300c135a1c8b2",
+    "attribution": "Notebooks.jpg — L.Marie; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Notebooks.jpg"
+  },
+  {
+    "id": "telephone",
+    "file": "telephone.jpg",
+    "words": [
+      "telephone",
+      "phone"
+    ],
+    "altZh": "电话",
+    "captionZh": "真实摄影 · 电话",
+    "wordCuesZh": {
+      "telephone": "电话：观察照片中的电话",
+      "phone": "电话：观察照片中的电话"
+    },
+    "author": "Berthold Werner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Telefon_BW_2012-02-18_13-44-32.JPG",
+    "width": 640,
+    "height": 505,
+    "imageTitle": "Telefon_BW_2012-02-18_13-44-32.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "77129eb358cdaa4a7083cbe98b39266b093cb879e930f66158eab2c337ed1ff0",
+    "attribution": "Telefon_BW_2012-02-18_13-44-32.JPG — Berthold Werner; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Telefon_BW_2012-02-18_13-44-32.JPG"
+  },
+  {
+    "id": "pillow",
+    "file": "pillow.jpg",
+    "words": [
+      "pillow"
+    ],
+    "altZh": "枕头",
+    "captionZh": "真实摄影 · 枕头",
+    "wordCuesZh": {
+      "pillow": "枕头：观察照片中的枕头"
+    },
+    "author": "Amin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pillows_on_a_hotel_bed.jpg",
+    "width": 640,
+    "height": 565,
+    "imageTitle": "Pillows_on_a_hotel_bed.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "de4cb6459565a92c2c0804aad709ea188d58bafe251f80f02f05cbfcbd782bd4",
+    "attribution": "Pillows_on_a_hotel_bed.jpg — Amin; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Pillows_on_a_hotel_bed.jpg"
+  },
+  {
+    "id": "printer",
+    "file": "printer.jpg",
+    "words": [
+      "printer"
+    ],
+    "altZh": "打印机",
+    "captionZh": "真实摄影 · 打印机",
+    "wordCuesZh": {
+      "printer": "打印机：观察照片中的打印机"
+    },
+    "author": "Thiemo Schuff",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HP_Laserjet_5_DN_1.jpg",
+    "width": 537,
+    "height": 600,
+    "imageTitle": "HP_Laserjet_5_DN_1.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "45d5753f0fc0888b4dd1a13202b9b9597d0b754762b4bbc277ea3bca02677b92",
+    "attribution": "HP_Laserjet_5_DN_1.jpg — Thiemo Schuff; CC BY-SA 3.0 de. https://commons.wikimedia.org/wiki/File:HP_Laserjet_5_DN_1.jpg"
+  },
+  {
+    "id": "radio",
+    "file": "radio.jpg",
+    "words": [
+      "radio"
+    ],
+    "altZh": "收音机",
+    "captionZh": "真实摄影 · 收音机",
+    "wordCuesZh": {
+      "radio": "收音机：观察照片中的收音机"
+    },
+    "author": "Mspecht",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Icom_IC-R7000_radio_receiver.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Icom_IC-R7000_radio_receiver.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "6bc89b2c076698f1a3daac0062a1cfa169450c19f636eafb6763af4171dff8b7",
+    "attribution": "Icom_IC-R7000_radio_receiver.jpg — Mspecht; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Icom_IC-R7000_radio_receiver.jpg"
+  },
+  {
+    "id": "rice",
+    "file": "rice.jpg",
+    "words": [
+      "rice",
+      "grain"
+    ],
+    "altZh": "水稻田",
+    "captionZh": "真实摄影 · 水稻田",
+    "wordCuesZh": {
+      "rice": "稻：观察田中生长的水稻植株",
+      "grain": "谷粒：观察稻穗上一粒粒谷物"
+    },
+    "author": "China News Service",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg",
+    "width": 640,
+    "height": 360,
+    "imageTitle": "20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "ffe53c9df2590d26db9ec38e6b711c2d0ef0caa0eeb092bbe067da3a53e6d76d",
+    "attribution": "20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg — China News Service; CC BY 3.0. https://commons.wikimedia.org/wiki/File:20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg"
+  },
+  {
+    "id": "road",
+    "file": "road.jpg",
+    "words": [
+      "road",
+      "highway",
+      "lane"
+    ],
+    "altZh": "道路",
+    "captionZh": "真实摄影 · 道路",
+    "wordCuesZh": {
+      "road": "道路：观察照片中的道路",
+      "highway": "公路：航拍中的多车道高速公路",
+      "lane": "车道：道路上由标线分隔的通行带"
+    },
+    "author": "Ermell",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erlangen_Bundesautobahn_73_Auffahrt_Luftbild-20230422-RM-165734.jpg",
+    "width": 640,
+    "height": 479,
+    "imageTitle": "Erlangen_Bundesautobahn_73_Auffahrt_Luftbild-20230422-RM-165734.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "e74bb5e075f27cdb8266f9102da004069a1435cc9d78ae2dd82fdf06022981be",
+    "attribution": "Erlangen_Bundesautobahn_73_Auffahrt_Luftbild-20230422-RM-165734.jpg — Ermell; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Erlangen_Bundesautobahn_73_Auffahrt_Luftbild-20230422-RM-165734.jpg"
+  },
+  {
+    "id": "roof",
+    "file": "roof.jpg",
+    "words": [
+      "roof"
+    ],
+    "altZh": "屋顶",
+    "captionZh": "真实摄影 · 屋顶",
+    "wordCuesZh": {
+      "roof": "屋顶：观察照片中的屋顶"
+    },
+    "author": "Foto: Jonn Leffmann",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tak_-_Ystad-2022.jpg",
+    "width": 640,
+    "height": 356,
+    "imageTitle": "Tak_-_Ystad-2022.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "e698435a9c71a4b8dc0284ff331b80072bde0779cf0928012eca43cafc6a2f43",
+    "attribution": "Tak_-_Ystad-2022.jpg — Foto: Jonn Leffmann; CC BY 3.0. https://commons.wikimedia.org/wiki/File:Tak_-_Ystad-2022.jpg"
+  },
+  {
+    "id": "rope",
+    "file": "rope.jpg",
+    "words": [
+      "rope"
+    ],
+    "altZh": "绳子",
+    "captionZh": "真实摄影 · 绳子",
+    "wordCuesZh": {
+      "rope": "绳子：观察照片中的绳子"
+    },
+    "author": "Ji-Elle",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cordage_en_chanvre.jpg",
+    "width": 640,
+    "height": 499,
+    "imageTitle": "Cordage_en_chanvre.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "6430c553c3ce52c04c6cb429a6338034a40ff38566ab0f57dda59e24aff646b5",
+    "attribution": "Cordage_en_chanvre.jpg — Ji-Elle; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Cordage_en_chanvre.jpg"
+  },
+  {
+    "id": "soap",
+    "file": "soap.jpg",
+    "words": [
+      "soap"
+    ],
+    "altZh": "肥皂",
+    "captionZh": "真实摄影 · 肥皂",
+    "wordCuesZh": {
+      "soap": "肥皂：观察照片中的肥皂"
+    },
+    "author": "Malene Thyssen, simplified by HLHJ",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Handmade_soap_cropped_and_simplified.jpg",
+    "width": 640,
+    "height": 550,
+    "imageTitle": "Handmade_soap_cropped_and_simplified.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "b7db1101d5decef7d309a75746feb5188e57a1ac8d6d11cb8fb72e3430fd811e",
+    "attribution": "Handmade_soap_cropped_and_simplified.jpg — Malene Thyssen, simplified by HLHJ; CC BY 2.5. https://commons.wikimedia.org/wiki/File:Handmade_soap_cropped_and_simplified.jpg"
+  },
+  {
+    "id": "sock",
+    "file": "sock.jpg",
+    "words": [
+      "sock"
+    ],
+    "altZh": "袜子",
+    "captionZh": "真实摄影 · 袜子",
+    "wordCuesZh": {
+      "sock": "袜子：观察照片中的袜子"
+    },
+    "author": "Loggie-log",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HandKnittedWhiteLaceSock.jpg",
+    "width": 638,
+    "height": 478,
+    "imageTitle": "HandKnittedWhiteLaceSock.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "f6db5f183e14998366fd5d22b8b11893d245f35e8dae09adf9467e34ff8fdf5e",
+    "attribution": "HandKnittedWhiteLaceSock.jpg — Loggie-log; Public domain. https://commons.wikimedia.org/wiki/File:HandKnittedWhiteLaceSock.jpg"
+  },
+  {
+    "id": "spoon",
+    "file": "spoon.jpg",
+    "words": [
+      "spoon"
+    ],
+    "altZh": "勺子",
+    "captionZh": "真实摄影 · 勺子",
+    "wordCuesZh": {
+      "spoon": "勺子：观察照片中的勺子"
+    },
+    "author": "Donovan Govan.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soup_Spoon.jpg",
+    "width": 640,
+    "height": 491,
+    "imageTitle": "Soup_Spoon.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "87d80a556cd034dcc5de351d4e6eba3f882469165f4985426a9d2fed492e6ee9",
+    "attribution": "Soup_Spoon.jpg — Donovan Govan.; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Soup_Spoon.jpg"
+  },
+  {
+    "id": "stair",
+    "file": "stair.jpg",
+    "words": [
+      "stair",
+      "staircase"
+    ],
+    "altZh": "楼梯",
+    "captionZh": "真实摄影 · 楼梯",
+    "wordCuesZh": {
+      "stair": "楼梯：观察照片中的楼梯",
+      "staircase": "楼梯：观察照片中的楼梯"
+    },
+    "author": "Photograph by Mike Peel (www.mikepeel.net).",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:At_Victoria_and_Albert_Museum_2025_018.jpg",
+    "width": 480,
+    "height": 640,
+    "imageTitle": "At_Victoria_and_Albert_Museum_2025_018.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "2ff8eca0a27b70609bbbc606b352b96b94330a7120ab841aa7e6724b33a5bdd3",
+    "attribution": "At_Victoria_and_Albert_Museum_2025_018.jpg — Photograph by Mike Peel (www.mikepeel.net).; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:At_Victoria_and_Albert_Museum_2025_018.jpg"
+  },
+  {
+    "id": "street",
+    "file": "street.jpg",
+    "words": [
+      "street"
+    ],
+    "altZh": "街道",
+    "captionZh": "真实摄影 · 街道",
+    "wordCuesZh": {
+      "street": "街道：观察照片中的街道"
+    },
+    "author": "Onofre_Bouvila.",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Typical_Street_In_The_Royal_Borough_Of_Kensington_And_Chelsea_In_London.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Typical_Street_In_The_Royal_Borough_Of_Kensington_And_Chelsea_In_London.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "be0d60cd48607ac054a6658d5ce58b3cf4c8e4c8c845895f0032e624c767da51",
+    "attribution": "Typical_Street_In_The_Royal_Borough_Of_Kensington_And_Chelsea_In_London.jpg — Onofre_Bouvila.; CC BY 2.5. https://commons.wikimedia.org/wiki/File:Typical_Street_In_The_Royal_Borough_Of_Kensington_And_Chelsea_In_London.jpg"
+  },
+  {
+    "id": "table",
+    "file": "table.jpg",
+    "words": [
+      "table"
+    ],
+    "altZh": "桌子",
+    "captionZh": "真实摄影 · 桌子",
+    "wordCuesZh": {
+      "table": "桌子：观察照片中的桌子"
+    },
+    "author": "Neoclassicism Enthusiast",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_Baroque_gilded_table_from_the_Cinquantenaire_Museum_(Bruxelles,_Belgium).jpg",
+    "width": 640,
+    "height": 423,
+    "imageTitle": "Beautiful_Baroque_gilded_table_from_the_Cinquantenaire_Museum_(Bruxelles,_Belgium).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "d74c139a73254a92a90305819b00e996a3d4492f77430ee925ba5c7be797455b",
+    "attribution": "Beautiful_Baroque_gilded_table_from_the_Cinquantenaire_Museum_(Bruxelles,_Belgium).jpg — Neoclassicism Enthusiast; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Beautiful_Baroque_gilded_table_from_the_Cinquantenaire_Museum_(Bruxelles,_Belgium).jpg"
+  },
+  {
+    "id": "ticket",
+    "file": "ticket.jpg",
+    "words": [
+      "ticket"
+    ],
+    "altZh": "票",
+    "captionZh": "真实摄影 · 票",
+    "wordCuesZh": {
+      "ticket": "票：观察照片中的票"
+    },
+    "author": "Andreas -horn- Hornig",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ticket_(unseparated)_Kurkino-Berchtesgaden.JPG",
+    "width": 640,
+    "height": 322,
+    "imageTitle": "Ticket_(unseparated)_Kurkino-Berchtesgaden.JPG",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "056cc1fe1d1d05e5910f5ff391617e358c0cc31255305c36fba4cbfff798720d",
+    "attribution": "Ticket_(unseparated)_Kurkino-Berchtesgaden.JPG — Andreas -horn- Hornig; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Ticket_(unseparated)_Kurkino-Berchtesgaden.JPG"
+  },
+  {
+    "id": "towel",
+    "file": "towel.jpg",
+    "words": [
+      "towel"
+    ],
+    "altZh": "毛巾",
+    "captionZh": "真实摄影 · 毛巾",
+    "wordCuesZh": {
+      "towel": "毛巾：观察照片中的毛巾"
+    },
+    "author": "User:Mattes",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zusammengelegte_Handt%C3%BCcher.jpg",
+    "width": 640,
+    "height": 548,
+    "imageTitle": "Zusammengelegte_Handtücher.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "77b3bd8f18ba0bd338b3c26e5997d80fab6b46c4611f0f4e36c6132518476b38",
+    "attribution": "Zusammengelegte_Handtücher.jpg — User:Mattes; Public domain. https://commons.wikimedia.org/wiki/File:Zusammengelegte_Handt%C3%BCcher.jpg"
+  },
+  {
+    "id": "train",
+    "file": "train.jpg",
+    "words": [
+      "train",
+      "railway",
+      "track"
+    ],
+    "altZh": "火车",
+    "captionZh": "真实摄影 · 火车",
+    "wordCuesZh": {
+      "train": "火车：观察照片中的火车",
+      "railway": "铁路：列车沿铺设的轨道行驶",
+      "track": "轨道：火车车轮下方延伸的轨道"
+    },
+    "author": "Алексей Задонский",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_%D0%B3%D0%BE%D1%80%D1%8B_%D0%A8%D0%B0%D1%82%D1%80%D0%B8%D1%89%D0%B5._%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Поезд_на_фоне_горы_Шатрище._Воронежская_область.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "456626f7ce759dda6ba029f77ec0f6b97d065ffd10d5a36c7a28bd8133970bef",
+    "attribution": "Поезд_на_фоне_горы_Шатрище._Воронежская_область.jpg — Алексей Задонский; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_%D0%B3%D0%BE%D1%80%D1%8B_%D0%A8%D0%B0%D1%82%D1%80%D0%B8%D1%89%D0%B5._%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.jpg"
+  },
+  {
+    "id": "truck",
+    "file": "truck.jpg",
+    "words": [
+      "truck",
+      "lorry"
+    ],
+    "altZh": "卡车",
+    "captionZh": "真实摄影 · 卡车",
+    "wordCuesZh": {
+      "truck": "卡车：观察照片中的卡车",
+      "lorry": "卡车：观察照片中的卡车"
+    },
+    "author": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2001_Ford_F-250_Super_Duty_XL_regular_cab_flatbed,_front_left,_05-17-2025.jpg",
+    "width": 640,
+    "height": 448,
+    "imageTitle": "2001_Ford_F-250_Super_Duty_XL_regular_cab_flatbed,_front_left,_05-17-2025.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "ae763b0d4d1a75f49102daba6d257c1761beb280929611a43da384d80628bdab",
+    "attribution": "2001_Ford_F-250_Super_Duty_XL_regular_cab_flatbed,_front_left,_05-17-2025.jpg — MercurySable99; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2001_Ford_F-250_Super_Duty_XL_regular_cab_flatbed,_front_left,_05-17-2025.jpg"
+  },
+  {
+    "id": "wall",
+    "file": "wall.jpg",
+    "words": [
+      "wall"
+    ],
+    "altZh": "墙",
+    "captionZh": "真实摄影 · 墙",
+    "wordCuesZh": {
+      "wall": "墙：观察照片中的墙"
+    },
+    "author": "No machine-readable author provided. Ofol assumed (based on copyright claims).",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noel_2005_P%C3%A9kin_031_muraille_de_chine_Mutianyu.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Noel_2005_Pékin_031_muraille_de_chine_Mutianyu.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "d4e2491beebc3f1a16eada7abcd44eefd713d87a01e07c84a56178cad2a3fdeb",
+    "attribution": "Noel_2005_Pékin_031_muraille_de_chine_Mutianyu.jpg — No machine-readable author provided. Ofol assumed (based on copyright claims).; CC BY 2.5. https://commons.wikimedia.org/wiki/File:Noel_2005_P%C3%A9kin_031_muraille_de_chine_Mutianyu.jpg"
+  },
+  {
+    "id": "window",
+    "file": "window.jpg",
+    "words": [
+      "window"
+    ],
+    "altZh": "窗户",
+    "captionZh": "真实摄影 · 窗户",
+    "wordCuesZh": {
+      "window": "窗户：观察照片中的窗户"
+    },
+    "author": "Shahadusadik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atua_Kosua_shrine4.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Atua_Kosua_shrine4.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "1e6e3a08fadc36c7d04840e878b7bb15ee3fcf4f5e4a99b58f92b7b31692ace9",
+    "attribution": "Atua_Kosua_shrine4.jpg — Shahadusadik; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Atua_Kosua_shrine4.jpg"
+  },
+  {
+    "id": "barrel",
+    "file": "barrel.jpg",
+    "words": [
+      "barrel",
+      "container"
+    ],
+    "altZh": "桶",
+    "captionZh": "真实摄影 · 桶",
+    "wordCuesZh": {
+      "barrel": "桶：观察照片中的桶",
+      "container": "容器：木桶用于盛装液体或其他物品"
+    },
+    "author": "Gerard Prins",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oak-wine-barrel-at-toneleria-nacional-chile.jpg",
+    "width": 640,
+    "height": 475,
+    "imageTitle": "Oak-wine-barrel-at-toneleria-nacional-chile.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "668c759f43cf810c2cd695dcdd250c80474148fae63b0f1f515a9728a8132adb",
+    "attribution": "Oak-wine-barrel-at-toneleria-nacional-chile.jpg — Gerard Prins; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Oak-wine-barrel-at-toneleria-nacional-chile.jpg"
+  },
+  {
+    "id": "bucket",
+    "file": "bucket.jpg",
+    "words": [
+      "bucket"
+    ],
+    "altZh": "水桶",
+    "captionZh": "真实摄影 · 水桶",
+    "wordCuesZh": {
+      "bucket": "水桶：观察照片中的水桶"
+    },
+    "author": "Wolfgang Sauber",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gotland-Bottarve_Museumshof_07.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Gotland-Bottarve_Museumshof_07.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "aad56f8e8e94eee63d45ef368c6eedacba1f85b54a44de017dfcfeb9173a0f79",
+    "attribution": "Gotland-Bottarve_Museumshof_07.jpg — Wolfgang Sauber; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Gotland-Bottarve_Museumshof_07.jpg"
+  },
+  {
+    "id": "button",
+    "file": "button.jpg",
+    "words": [
+      "button"
+    ],
+    "altZh": "纽扣",
+    "captionZh": "真实摄影 · 纽扣",
+    "wordCuesZh": {
+      "button": "纽扣：观察照片中的纽扣"
+    },
+    "author": "Europeana staff photographer",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reserveknapper_til_Hans%27_uniform.jpg",
+    "width": 640,
+    "height": 424,
+    "imageTitle": "Reserveknapper_til_Hans'_uniform.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "33cf68c4706350369c3afe54e6ce649487f0bd0139f1fdc9e2fdf6898c94bd0c",
+    "attribution": "Reserveknapper_til_Hans'_uniform.jpg — Europeana staff photographer; Public domain. https://commons.wikimedia.org/wiki/File:Reserveknapper_til_Hans%27_uniform.jpg"
+  },
+  {
+    "id": "carpet",
+    "file": "carpet.jpg",
+    "words": [
+      "carpet"
+    ],
+    "altZh": "地毯",
+    "captionZh": "真实摄影 · 地毯",
+    "wordCuesZh": {
+      "carpet": "地毯：观察照片中的地毯"
+    },
+    "author": "Ryj",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wollteppich_1.jpg",
+    "width": 640,
+    "height": 561,
+    "imageTitle": "Wollteppich_1.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "c61f2f88e8d992be371c9f80bfd6f27be345f5963826c08cb3673ea64fcac2ea",
+    "attribution": "Wollteppich_1.jpg — Ryj; Public domain. https://commons.wikimedia.org/wiki/File:Wollteppich_1.jpg"
+  },
+  {
+    "id": "chain",
+    "file": "chain.jpg",
+    "words": [
+      "chain"
+    ],
+    "altZh": "链条",
+    "captionZh": "真实摄影 · 链条",
+    "wordCuesZh": {
+      "chain": "链条：观察照片中的链条"
+    },
+    "author": "Toni Lozano",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Broad_chain_closeup.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Broad_chain_closeup.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "ffce1ea871f0212dde189bba05123ed9430e1f972f6f3b6580eab10029b6dbfb",
+    "attribution": "Broad_chain_closeup.jpg — Toni Lozano; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Broad_chain_closeup.jpg"
+  },
+  {
+    "id": "cushion",
+    "file": "cushion.jpg",
+    "words": [
+      "cushion"
+    ],
+    "altZh": "靠垫",
+    "captionZh": "真实摄影 · 靠垫",
+    "wordCuesZh": {
+      "cushion": "靠垫：观察照片中的靠垫"
+    },
+    "author": "Markjones959",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Throw_Pillows_(Scatter_Cushions).jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Throw_Pillows_(Scatter_Cushions).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "1396666d5a40c3a6867595bcca36481539fedd3f56449a9481ef153989d06b72",
+    "attribution": "Throw_Pillows_(Scatter_Cushions).jpg — Markjones959; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Throw_Pillows_(Scatter_Cushions).jpg"
+  },
+  {
+    "id": "torch",
+    "file": "torch.jpg",
+    "words": [
+      "torch"
+    ],
+    "altZh": "手电筒",
+    "captionZh": "真实摄影 · 手电筒",
+    "wordCuesZh": {
+      "torch": "手电筒：观察照片中的手电筒"
+    },
+    "author": "Brownse10",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:LED_Flashlights.jpg",
+    "width": 640,
+    "height": 640,
+    "imageTitle": "LED_Flashlights.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "fdcc58011b08c7d25600f5e4827a20cbfb3305cb658ec94c991b441053465ba8",
+    "attribution": "LED_Flashlights.jpg — Brownse10; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:LED_Flashlights.jpg"
+  },
+  {
+    "id": "helmet",
+    "file": "helmet.jpg",
+    "words": [
+      "helmet"
+    ],
+    "altZh": "头盔",
+    "captionZh": "真实摄影 · 头盔",
+    "wordCuesZh": {
+      "helmet": "头盔：观察照片中的头盔"
+    },
+    "author": "Brandenads",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Wide_Variety_Of_Helmets.png",
+    "width": 640,
+    "height": 219,
+    "imageTitle": "A_Wide_Variety_Of_Helmets.png",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "3acf8d066228b256812d84e38dbe96834b668ab192bb6835053bb6917bb1cdef",
+    "attribution": "A_Wide_Variety_Of_Helmets.png — Brandenads; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:A_Wide_Variety_Of_Helmets.png"
+  },
+  {
+    "id": "kettle",
+    "file": "kettle.jpg",
+    "words": [
+      "kettle"
+    ],
+    "altZh": "水壶",
+    "captionZh": "真实摄影 · 水壶",
+    "wordCuesZh": {
+      "kettle": "水壶：观察照片中的水壶"
+    },
+    "author": "Holger Ellgaard",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bernadotte_Wasserkessel.jpg",
+    "width": 640,
+    "height": 496,
+    "imageTitle": "Bernadotte_Wasserkessel.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "c159e70cfc8ef3f886ba13727fcf6847922fefd4f4c0c6df0e61479b83fbf0c8",
+    "attribution": "Bernadotte_Wasserkessel.jpg — Holger Ellgaard; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Bernadotte_Wasserkessel.jpg"
+  },
+  {
+    "id": "kite",
+    "file": "kite.jpg",
+    "words": [
+      "kite"
+    ],
+    "altZh": "风筝",
+    "captionZh": "真实摄影 · 风筝",
+    "wordCuesZh": {
+      "kite": "风筝：观察照片中的风筝"
+    },
+    "author": "Jon Sullivan",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kitesflying.jpg",
+    "width": 480,
+    "height": 640,
+    "imageTitle": "Kitesflying.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "c8808ba5fff20ba16cb554e5489d86853b656cc182b11cdb130fe2b9091efb3d",
+    "attribution": "Kitesflying.jpg — Jon Sullivan; Public domain. https://commons.wikimedia.org/wiki/File:Kitesflying.jpg"
+  },
+  {
+    "id": "magnet",
+    "file": "magnet.jpg",
+    "words": [
+      "magnet"
+    ],
+    "altZh": "磁铁",
+    "captionZh": "真实摄影 · 磁铁",
+    "wordCuesZh": {
+      "magnet": "磁铁：观察照片中的磁铁"
+    },
+    "author": "GOKLuLe 盧樂",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magnetite_sample_with_neodymium_magnet.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Magnetite_sample_with_neodymium_magnet.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "f24f047339c74baea97c602543a1c9e43825f724b8558179536e2e8bedc8389b",
+    "attribution": "Magnetite_sample_with_neodymium_magnet.jpg — GOKLuLe 盧樂; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Magnetite_sample_with_neodymium_magnet.jpg"
+  },
+  {
+    "id": "medal",
+    "file": "medal.jpg",
+    "words": [
+      "medal"
+    ],
+    "altZh": "纪念奖章",
+    "captionZh": "真实摄影 · 纪念奖章",
+    "wordCuesZh": {
+      "medal": "奖章：观察带有人像浮雕的圆形金属奖章"
+    },
+    "author": "Pisanello",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_medal_of_Cecilia_Gonzaga_(obverse);_Innocence_and_a_Unicorn_in_a_Moonlit_Landscape_(reverse)_MET_DP-1241-015_(cropped).jpg",
+    "width": 640,
+    "height": 635,
+    "imageTitle": "Portrait_medal_of_Cecilia_Gonzaga_(obverse);_Innocence_and_a_Unicorn_in_a_Moonlit_Landscape_(reverse)_MET_DP-1241-015_(cropped).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "bfa099f2ab2d4855e841cc6f4243a95d179f3c79e765316926206709efcc1af4",
+    "attribution": "Portrait_medal_of_Cecilia_Gonzaga_(obverse);_Innocence_and_a_Unicorn_in_a_Moonlit_Landscape_(reverse)_MET_DP-1241-015_(cropped).jpg — Pisanello; CC0. https://commons.wikimedia.org/wiki/File:Portrait_medal_of_Cecilia_Gonzaga_(obverse);_Innocence_and_a_Unicorn_in_a_Moonlit_Landscape_(reverse)_MET_DP-1241-015_(cropped).jpg"
+  },
+  {
+    "id": "nut",
+    "file": "nut.jpg",
+    "words": [
+      "nut"
+    ],
+    "altZh": "螺母",
+    "captionZh": "真实摄影 · 螺母",
+    "wordCuesZh": {
+      "nut": "螺母：观察照片中的螺母"
+    },
+    "author": "Afrank99",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:M4_Inbusschraube_focusstacked.jpg",
+    "width": 640,
+    "height": 507,
+    "imageTitle": "M4_Inbusschraube_focusstacked.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "e7823f7f8bc9a1b2c496113308d7a0769e9ded894fbf2c782a210657a739bdd0",
+    "attribution": "M4_Inbusschraube_focusstacked.jpg — Afrank99; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:M4_Inbusschraube_focusstacked.jpg"
+  },
+  {
+    "id": "rake",
+    "file": "rake.jpg",
+    "words": [
+      "rake"
+    ],
+    "altZh": "历史园艺耙",
+    "captionZh": "真实摄影 · 历史园艺耙",
+    "wordCuesZh": {
+      "rake": "耙子：观察这把历史园艺工具的长柄与耙齿"
+    },
+    "author": "Stephencdickson",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garden_rake_made_from_turned_pear_tree_wood,_made_1560,_Rustkammer_Museum,_Dresden.jpg",
+    "width": 426,
+    "height": 640,
+    "imageTitle": "Garden_rake_made_from_turned_pear_tree_wood,_made_1560,_Rustkammer_Museum,_Dresden.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "326479505b9e68492a45307e3f5f95e60104f33fe1ed0b089fb4288c8f59e490",
+    "attribution": "Garden_rake_made_from_turned_pear_tree_wood,_made_1560,_Rustkammer_Museum,_Dresden.jpg — Stephencdickson; CC BY 4.0. https://commons.wikimedia.org/wiki/File:Garden_rake_made_from_turned_pear_tree_wood,_made_1560,_Rustkammer_Museum,_Dresden.jpg"
+  },
+  {
+    "id": "razor",
+    "file": "razor.jpg",
+    "words": [
+      "razor"
+    ],
+    "altZh": "剃须刀",
+    "captionZh": "真实摄影 · 剃须刀",
+    "wordCuesZh": {
+      "razor": "剃须刀：观察照片中的剃须刀"
+    },
+    "author": "Marcus Wengenroth",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quattro_Titanium_Energy.jpg",
+    "width": 640,
+    "height": 334,
+    "imageTitle": "Quattro_Titanium_Energy.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "205b87ed08e9c3a96d6eebd42f17515207b5c715b48bff937bb3930216706a9f",
+    "attribution": "Quattro_Titanium_Energy.jpg — Marcus Wengenroth; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Quattro_Titanium_Energy.jpg"
+  },
+  {
+    "id": "screw",
+    "file": "screw.jpg",
+    "words": [
+      "screw"
+    ],
+    "altZh": "螺丝",
+    "captionZh": "真实摄影 · 螺丝",
+    "wordCuesZh": {
+      "screw": "螺丝：观察照片中的螺丝"
+    },
+    "author": "Brianiac",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Screws.jpg",
+    "width": 300,
+    "height": 198,
+    "imageTitle": "Screws.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "ac860053364bfa7b15f4942eeca862225e872049e5bbd6198b0f018021377a75",
+    "attribution": "Screws.jpg — Brianiac; Public domain. https://commons.wikimedia.org/wiki/File:Screws.jpg"
+  },
+  {
+    "id": "shovel",
+    "file": "shovel.jpg",
+    "words": [
+      "shovel"
+    ],
+    "altZh": "铲子",
+    "captionZh": "真实摄影 · 铲子",
+    "wordCuesZh": {
+      "shovel": "铲子：观察照片中的铲子"
+    },
+    "author": "SvenPek",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skovl.jpg",
+    "width": 640,
+    "height": 640,
+    "imageTitle": "Skovl.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "6324c3e452b1b67bd55d34a4867784072dbca5004d29a3a8687ee348dadea2b8",
+    "attribution": "Skovl.jpg — SvenPek; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Skovl.jpg"
+  },
+  {
+    "id": "sink",
+    "file": "sink.jpg",
+    "words": [
+      "sink"
+    ],
+    "altZh": "水槽",
+    "captionZh": "真实摄影 · 水槽",
+    "wordCuesZh": {
+      "sink": "水槽：观察照片中的水槽"
+    },
+    "author": "Amin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luxury_sink.jpg",
+    "width": 640,
+    "height": 433,
+    "imageTitle": "Luxury_sink.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "803fd100874fd490d1be5b9490b9d7b75b3987b34aabaa1105dfa190fd2f33c9",
+    "attribution": "Luxury_sink.jpg — Amin; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Luxury_sink.jpg"
+  },
+  {
+    "id": "sofa",
+    "file": "sofa.jpg",
+    "words": [
+      "sofa"
+    ],
+    "altZh": "沙发",
+    "captionZh": "真实摄影 · 沙发",
+    "wordCuesZh": {
+      "sofa": "沙发：观察照片中的沙发"
+    },
+    "author": "Ildar Sagdejev (Specious)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2009-05-16_Main_office_lobby_at_Hampton_Forest_Apartments.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "2009-05-16_Main_office_lobby_at_Hampton_Forest_Apartments.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "a2d14625ae4b79dce79c676b2d42e9dce4d4322bece3adb03056b15e1088a4bd",
+    "attribution": "2009-05-16_Main_office_lobby_at_Hampton_Forest_Apartments.jpg — Ildar Sagdejev (Specious); CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2009-05-16_Main_office_lobby_at_Hampton_Forest_Apartments.jpg"
+  },
+  {
+    "id": "suit",
+    "file": "suit.jpg",
+    "words": [
+      "suit"
+    ],
+    "altZh": "西装",
+    "captionZh": "真实摄影 · 西装",
+    "wordCuesZh": {
+      "suit": "西装：观察照片中的西装"
+    },
+    "author": "Cliff Donaldson from Belfast, Northern Ireland",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matt_Smith_on_%22Christopher_And_His_Kind%22_set.jpg",
+    "width": 426,
+    "height": 640,
+    "imageTitle": "Matt_Smith_on_\"Christopher_And_His_Kind\"_set.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "b95f31b256a6be6b9a11b34db7fa584c321bf5bc4bf4e7b0fa7ebe32d95d3a48",
+    "attribution": "Matt_Smith_on_\"Christopher_And_His_Kind\"_set.jpg — Cliff Donaldson from Belfast, Northern Ireland; CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Matt_Smith_on_%22Christopher_And_His_Kind%22_set.jpg"
+  },
+  {
+    "id": "sweater",
+    "file": "sweater.jpg",
+    "words": [
+      "sweater"
+    ],
+    "altZh": "毛衣",
+    "captionZh": "真实摄影 · 毛衣",
+    "wordCuesZh": {
+      "sweater": "毛衣：观察照片中的毛衣"
+    },
+    "author": "Nils R. Barth",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Selburose-sweater.jpg",
+    "width": 640,
+    "height": 624,
+    "imageTitle": "Selburose-sweater.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "50cb0cd138644bf90f270cc2b6511bfa3e5d275fe9ece67ddf1f5390d273710f",
+    "attribution": "Selburose-sweater.jpg — Nils R. Barth; Public domain. https://commons.wikimedia.org/wiki/File:Selburose-sweater.jpg"
+  },
+  {
+    "id": "trousers",
+    "file": "trousers.jpg",
+    "words": [
+      "trousers"
+    ],
+    "altZh": "裤子",
+    "captionZh": "真实摄影 · 裤子",
+    "wordCuesZh": {
+      "trousers": "裤子：观察照片中的裤子"
+    },
+    "author": "Dressed_for_summer.jpg: Ed Yourdon\nderivative work: Themightyquill (talk)",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trousers-colourisolated.jpg",
+    "width": 515,
+    "height": 640,
+    "imageTitle": "Trousers-colourisolated.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "412eeedc5105fffc4014025f14fac7fd817064a24637cd287bbeed98a6e2c947",
+    "attribution": "Trousers-colourisolated.jpg — Dressed_for_summer.jpg: Ed Yourdon\nderivative work: Themightyquill (talk); CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Trousers-colourisolated.jpg"
+  },
+  {
+    "id": "typewriter",
+    "file": "typewriter.jpg",
+    "words": [
+      "typewriter"
+    ],
+    "altZh": "打字机",
+    "captionZh": "真实摄影 · 打字机",
+    "wordCuesZh": {
+      "typewriter": "打字机：观察照片中的打字机"
+    },
+    "author": "GodeNehler",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MEK_II-371.jpg",
+    "width": 640,
+    "height": 611,
+    "imageTitle": "MEK_II-371.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "735222ba9fadd26550bb7dde24b8016a18732a7516f7c4749dff69482936154e",
+    "attribution": "MEK_II-371.jpg — GodeNehler; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:MEK_II-371.jpg"
+  },
+  {
+    "id": "wallet",
+    "file": "wallet.jpg",
+    "words": [
+      "wallet"
+    ],
+    "altZh": "钱包",
+    "captionZh": "真实摄影 · 钱包",
+    "wordCuesZh": {
+      "wallet": "钱包：观察照片中的钱包"
+    },
+    "author": "The original uploader was TheArmadillo at English Wikipedia.. Uploaded to Commons by Körnerbrötchen.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:WalletMpegMan.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "WalletMpegMan.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "7f3f335ad3f804f95a6c1b6bd82a9b5275c945a911a170b484593f4db862bb22",
+    "attribution": "WalletMpegMan.jpg — The original uploader was TheArmadillo at English Wikipedia.. Uploaded to Commons by Körnerbrötchen.; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:WalletMpegMan.jpg"
+  },
+  {
+    "id": "whistle",
+    "file": "whistle.jpg",
+    "words": [
+      "whistle"
+    ],
+    "altZh": "哨子",
+    "captionZh": "真实摄影 · 哨子",
+    "wordCuesZh": {
+      "whistle": "哨子：观察照片中的哨子"
+    },
+    "author": "Zephyris at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Pea_Whistle.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "4c1762e1890dcc898748f737e57d0bae1300ac12810e478396b1ec5a3c27a9b1",
+    "attribution": "Pea_Whistle.jpg — Zephyris at English Wikipedia; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg"
+  },
+  {
+    "id": "zip",
+    "file": "zip.jpg",
+    "words": [
+      "zip"
+    ],
+    "altZh": "拉链",
+    "captionZh": "真实摄影 · 拉链",
+    "wordCuesZh": {
+      "zip": "拉链：观察照片中的拉链"
+    },
+    "author": "Woodbine9",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coil_plastic_and_metal_zippers.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Coil_plastic_and_metal_zippers.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "50e00b28877da4703e0890135cbc3be1a7b3ef2e359cdf30c712af819809e3db",
+    "attribution": "Coil_plastic_and_metal_zippers.jpg — Woodbine9; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Coil_plastic_and_metal_zippers.jpg"
+  },
+  {
+    "id": "biscuit",
+    "file": "biscuit.jpg",
+    "words": [
+      "biscuit"
+    ],
+    "altZh": "饼干",
+    "captionZh": "真实摄影 · 饼干",
+    "wordCuesZh": {
+      "biscuit": "饼干：观察照片中的饼干"
+    },
+    "author": "GOLDIEM J",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bourbon_and_Custard_Cream.jpeg",
+    "width": 640,
+    "height": 360,
+    "imageTitle": "Bourbon_and_Custard_Cream.jpeg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "ad979c0f8a7bb1d8af0127d25daa2edae4d06ae06070b5c9bdc592162b047885",
+    "attribution": "Bourbon_and_Custard_Cream.jpeg — GOLDIEM J; Public domain. https://commons.wikimedia.org/wiki/File:Bourbon_and_Custard_Cream.jpeg"
+  },
+  {
+    "id": "chocolate",
+    "file": "chocolate.jpg",
+    "words": [
+      "chocolate"
+    ],
+    "altZh": "巧克力",
+    "captionZh": "真实摄影 · 巧克力",
+    "wordCuesZh": {
+      "chocolate": "巧克力：观察照片中的巧克力"
+    },
+    "author": "Lynnereal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Three_Bars_(1).jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Three_Bars_(1).jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "a76311918f1b6248b974cec8823247ca9947e1addf1dda0801038f88dcd698f6",
+    "attribution": "Three_Bars_(1).jpg — Lynnereal; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Three_Bars_(1).jpg"
+  },
+  {
+    "id": "cucumber",
+    "file": "cucumber.jpg",
+    "words": [
+      "cucumber"
+    ],
+    "altZh": "黄瓜",
+    "captionZh": "真实摄影 · 黄瓜",
+    "wordCuesZh": {
+      "cucumber": "黄瓜：观察照片中的黄瓜"
+    },
+    "author": "Stephen Ausmus, USDA ARS",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ARS_cucumber.jpg",
+    "width": 446,
+    "height": 640,
+    "imageTitle": "ARS_cucumber.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "797640691438e9c6597c177c6c84a9b2f89ed50ed28742cddec5222373e9f665",
+    "attribution": "ARS_cucumber.jpg — Stephen Ausmus, USDA ARS; Public domain. https://commons.wikimedia.org/wiki/File:ARS_cucumber.jpg"
+  },
+  {
+    "id": "honey",
+    "file": "honey.jpg",
+    "words": [
+      "honey"
+    ],
+    "altZh": "蜂蜜",
+    "captionZh": "真实摄影 · 蜂蜜",
+    "wordCuesZh": {
+      "honey": "蜂蜜：观察照片中的蜂蜜"
+    },
+    "author": "Scott Bauer, USDA ARS",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Runny_hunny.jpg",
+    "width": 422,
+    "height": 640,
+    "imageTitle": "Runny_hunny.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "a8303abc4874b09c2c310c818ee25faf3b7efccb44cb8e5edbd3d2d2c30d9c34",
+    "attribution": "Runny_hunny.jpg — Scott Bauer, USDA ARS; Public domain. https://commons.wikimedia.org/wiki/File:Runny_hunny.jpg"
+  },
+  {
+    "id": "noodle",
+    "file": "noodle.jpg",
+    "words": [
+      "noodle"
+    ],
+    "altZh": "面条",
+    "captionZh": "真实摄影 · 面条",
+    "wordCuesZh": {
+      "noodle": "面条：观察照片中的面条"
+    },
+    "author": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dalian_Liaoning_China_Noodlemaker-01.jpg",
+    "width": 427,
+    "height": 640,
+    "imageTitle": "Dalian_Liaoning_China_Noodlemaker-01.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "1da8a77ed91badc4ebe218dffe2b3f4e84aadb20869b22d0be9bb410814cc370",
+    "attribution": "Dalian_Liaoning_China_Noodlemaker-01.jpg — CEphoto, Uwe Aranas; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Dalian_Liaoning_China_Noodlemaker-01.jpg"
+  },
+  {
+    "id": "olive",
+    "file": "olive.jpg",
+    "words": [
+      "olive"
+    ],
+    "altZh": "橄榄",
+    "captionZh": "真实摄影 · 橄榄",
+    "wordCuesZh": {
+      "olive": "橄榄：观察照片中的橄榄"
+    },
+    "author": "en:User:Nickfraser",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Olivesfromjordan.jpg",
+    "width": 494,
+    "height": 500,
+    "imageTitle": "Olivesfromjordan.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "ef63dfa41bf1bbbcf86ca9f5a6855f7c47f43362aeb5b8d172a1862133e768ad",
+    "attribution": "Olivesfromjordan.jpg — en:User:Nickfraser; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Olivesfromjordan.jpg"
+  },
+  {
+    "id": "salt",
+    "file": "salt.jpg",
+    "words": [
+      "salt"
+    ],
+    "altZh": "岩盐",
+    "captionZh": "真实摄影 · 岩盐",
+    "wordCuesZh": {
+      "salt": "盐：图中是自然形成的岩盐"
+    },
+    "author": "James St. John",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rock_salt_(halitite)_(Billianwala_Salt_Member,_Salt_Range_Formation,_Ediacaran_to_Lower_Cambrian;_Khewra_Salt_Mine,_Salt_Range,_Pakistan)_14.jpg",
+    "width": 640,
+    "height": 485,
+    "imageTitle": "Rock_salt_(halitite)_(Billianwala_Salt_Member,_Salt_Range_Formation,_Ediacaran_to_Lower_Cambrian;_Khewra_Salt_Mine,_Salt_Range,_Pakistan)_14.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "a96692b4048e70eea644ab9e0c4625b09cb0d6620c300ec264e38482a7fd2191",
+    "attribution": "Rock_salt_(halitite)_(Billianwala_Salt_Member,_Salt_Range_Formation,_Ediacaran_to_Lower_Cambrian;_Khewra_Salt_Mine,_Salt_Range,_Pakistan)_14.jpg — James St. John; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Rock_salt_(halitite)_(Billianwala_Salt_Member,_Salt_Range_Formation,_Ediacaran_to_Lower_Cambrian;_Khewra_Salt_Mine,_Salt_Range,_Pakistan)_14.jpg"
+  },
+  {
+    "id": "sausage",
+    "file": "sausage.jpg",
+    "words": [
+      "sausage"
+    ],
+    "altZh": "香肠",
+    "captionZh": "真实摄影 · 香肠",
+    "wordCuesZh": {
+      "sausage": "香肠：观察照片中的香肠"
+    },
+    "author": "Alice Wiegand",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wurstplatte.jpg",
+    "width": 480,
+    "height": 640,
+    "imageTitle": "Wurstplatte.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "e8d41af86be0c36c5c86e9be1352591703bb1306d7826ff2064ff289bf51a65b",
+    "attribution": "Wurstplatte.jpg — Alice Wiegand; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Wurstplatte.jpg"
+  },
+  {
+    "id": "sugar",
+    "file": "sugar.jpg",
+    "words": [
+      "sugar"
+    ],
+    "altZh": "糖",
+    "captionZh": "真实摄影 · 糖",
+    "wordCuesZh": {
+      "sugar": "糖：观察照片中的糖"
+    },
+    "author": "Romain Behar",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sucre_blanc_cassonade_complet_rapadura.jpg",
+    "width": 640,
+    "height": 595,
+    "imageTitle": "Sucre_blanc_cassonade_complet_rapadura.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "95719ced68f3d803bac5956c99e63be68bdd9300ce98655d94ce0073b3d6c39a",
+    "attribution": "Sucre_blanc_cassonade_complet_rapadura.jpg — Romain Behar; Public domain. https://commons.wikimedia.org/wiki/File:Sucre_blanc_cassonade_complet_rapadura.jpg"
+  },
+  {
+    "id": "walnut",
+    "file": "walnut.jpg",
+    "words": [
+      "walnut"
+    ],
+    "altZh": "核桃",
+    "captionZh": "真实摄影 · 核桃",
+    "wordCuesZh": {
+      "walnut": "核桃：观察照片中的核桃"
+    },
+    "author": "Ivar Leidus",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walnuts_-_whole_and_open_with_halved_kernel.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Walnuts_-_whole_and_open_with_halved_kernel.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "38caa1cd21822bcdf738e618c4d6210777f8787eb25369ee9e1b13f539cca034",
+    "attribution": "Walnuts_-_whole_and_open_with_halved_kernel.jpg — Ivar Leidus; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Walnuts_-_whole_and_open_with_halved_kernel.jpg"
+  },
+  {
+    "id": "wheat",
+    "file": "wheat.jpg",
+    "words": [
+      "wheat"
+    ],
+    "altZh": "小麦",
+    "captionZh": "真实摄影 · 小麦",
+    "wordCuesZh": {
+      "wheat": "小麦：观察照片中的小麦"
+    },
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Vehnäpelto_6.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "6595c18fc64e43503d9efdfb83e0d06945d323ff224aab01e9267365cb3af3da",
+    "attribution": "Vehnäpelto_6.jpg — kallerna; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg"
+  },
+  {
+    "id": "hay",
+    "file": "hay.jpg",
+    "words": [
+      "hay"
+    ],
+    "altZh": "干草",
+    "captionZh": "真实摄影 · 干草",
+    "wordCuesZh": {
+      "hay": "干草：观察照片中的干草"
+    },
+    "author": "Montanabw",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roundbale1.jpg",
+    "width": 640,
+    "height": 438,
+    "imageTitle": "Roundbale1.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "8c90fc78aa90ba019031c7cf13d593be5370afde582cafd70c81d8a9ef5cb7d7",
+    "attribution": "Roundbale1.jpg — Montanabw; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Roundbale1.jpg"
+  },
+  {
+    "id": "cabin",
+    "file": "cabin.jpg",
+    "words": [
+      "cabin"
+    ],
+    "altZh": "木屋",
+    "captionZh": "真实摄影 · 木屋",
+    "wordCuesZh": {
+      "cabin": "木屋：观察照片中的木屋"
+    },
+    "author": "Kjetil Bjørnsrud",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Norskfolkemuseum_1.jpg",
+    "width": 640,
+    "height": 351,
+    "imageTitle": "Norskfolkemuseum_1.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "74b3dbf2b766d94593f979f3cf91010de121767252142a1a7cc4b36a9c07d6e7",
+    "attribution": "Norskfolkemuseum_1.jpg — Kjetil Bjørnsrud; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Norskfolkemuseum_1.jpg"
+  },
+  {
+    "id": "barn",
+    "file": "barn.jpg",
+    "words": [
+      "barn"
+    ],
+    "altZh": "谷仓",
+    "captionZh": "真实摄影 · 谷仓",
+    "wordCuesZh": {
+      "barn": "谷仓：观察照片中的谷仓"
+    },
+    "author": "Swroche",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zalmon_Read_Barn_back_view.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Zalmon_Read_Barn_back_view.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "5d8996ef3b3667545740af6742a3724f255304402b0343fd81e632b152c838d3",
+    "attribution": "Zalmon_Read_Barn_back_view.jpg — Swroche; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Zalmon_Read_Barn_back_view.jpg"
+  },
+  {
+    "id": "dam",
+    "file": "dam.jpg",
+    "words": [
+      "dam"
+    ],
+    "altZh": "水坝",
+    "captionZh": "真实摄影 · 水坝",
+    "wordCuesZh": {
+      "dam": "水坝：观察照片中的水坝"
+    },
+    "author": "Wiki Commons users Qurren at  https://commons.wikimedia.org/wiki/User:Qurren",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Takato_Dam.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Takato_Dam.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "f6fa7588e6c5bb0b9601b7053134cff6ce1f8181b8f32b83b56098b926fd1468",
+    "attribution": "Takato_Dam.jpg — Wiki Commons users Qurren at  https://commons.wikimedia.org/wiki/User:Qurren; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Takato_Dam.jpg"
+  },
+  {
+    "id": "harbour",
+    "file": "harbour.jpg",
+    "words": [
+      "harbour",
+      "harbor",
+      "port"
+    ],
+    "altZh": "港口",
+    "captionZh": "真实摄影 · 港口",
+    "wordCuesZh": {
+      "harbour": "港口：观察照片中的港口",
+      "harbor": "港口：观察照片中的港口",
+      "port": "港口：从空中观察码头、岸线与货船停泊区域"
+    },
+    "author": "Imre Solt",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Port_2_Imresolt.jpg",
+    "width": 640,
+    "height": 309,
+    "imageTitle": "Jebel_Ali_Port_2_Imresolt.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "bbc453d3da2c0928c2c214f217e9acb3cac080aef4bfbf8682e9b53de813712a",
+    "attribution": "Jebel_Ali_Port_2_Imresolt.jpg — Imre Solt; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Jebel_Ali_Port_2_Imresolt.jpg"
+  },
+  {
+    "id": "pier",
+    "file": "pier.jpg",
+    "words": [
+      "pier"
+    ],
+    "altZh": "码头",
+    "captionZh": "真实摄影 · 码头",
+    "wordCuesZh": {
+      "pier": "码头：观察照片中的码头"
+    },
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korfu_(GR),_Korfu,_Altstadt_--_2018_--_1156.jpg",
+    "width": 640,
+    "height": 427,
+    "imageTitle": "Korfu_(GR),_Korfu,_Altstadt_--_2018_--_1156.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "462385c7e8b7ac498097f46ae3168f63018d1d3810ae14d2188f2454ccbe207b",
+    "attribution": "Korfu_(GR),_Korfu,_Altstadt_--_2018_--_1156.jpg — Dietmar Rabich; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Korfu_(GR),_Korfu,_Altstadt_--_2018_--_1156.jpg"
+  },
+  {
+    "id": "tunnel",
+    "file": "tunnel.jpg",
+    "words": [
+      "tunnel"
+    ],
+    "altZh": "隧道",
+    "captionZh": "真实摄影 · 隧道",
+    "wordCuesZh": {
+      "tunnel": "隧道：观察照片中的隧道"
+    },
+    "author": "Marc Mongenet",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Signalisation_routi%C3%A8re_entr%C3%A9e_sud_tunnel_du_Galibier.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Signalisation_routière_entrée_sud_tunnel_du_Galibier.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "fcaab64f80be876b7bcb6ec653f440f1869a0ed4478d89b6157a066417a6dc3d",
+    "attribution": "Signalisation_routière_entrée_sud_tunnel_du_Galibier.jpg — Marc Mongenet; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Signalisation_routi%C3%A8re_entr%C3%A9e_sud_tunnel_du_Galibier.jpg"
+  },
+  {
+    "id": "parachute",
+    "file": "parachute.jpg",
+    "words": [
+      "parachute"
+    ],
+    "altZh": "降落伞",
+    "captionZh": "真实摄影 · 降落伞",
+    "wordCuesZh": {
+      "parachute": "降落伞：观察照片中的降落伞"
+    },
+    "author": "Capt Raymond Geoffroy",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangladesh_Air_Force_(BAF)_paratroopers_jump_from_a_U.S._Air_Force_C-130_Hercules_aircraft_over_Bangladesh_during_exercise_Cope_South_14_Nov._10,_2013_131110-F-SI013-240.jpg",
+    "width": 512,
+    "height": 640,
+    "imageTitle": "Bangladesh_Air_Force_(BAF)_paratroopers_jump_from_a_U.S._Air_Force_C-130_Hercules_aircraft_over_Bangladesh_during_exercise_Cope_South_14_Nov._10,_2013_131110-F-SI013-240.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "571eaf9e5e8c4cb058b09cdf833f454ccb00995387740c49d0c939bc4c8096cb",
+    "attribution": "Bangladesh_Air_Force_(BAF)_paratroopers_jump_from_a_U.S._Air_Force_C-130_Hercules_aircraft_over_Bangladesh_during_exercise_Cope_South_14_Nov._10,_2013_131110-F-SI013-240.jpg — Capt Raymond Geoffroy; Public domain. https://commons.wikimedia.org/wiki/File:Bangladesh_Air_Force_(BAF)_paratroopers_jump_from_a_U.S._Air_Force_C-130_Hercules_aircraft_over_Bangladesh_during_exercise_Cope_South_14_Nov._10,_2013_131110-F-SI013-240.jpg"
+  },
+  {
+    "id": "rocket",
+    "file": "rocket.jpg",
+    "words": [
+      "rocket"
+    ],
+    "altZh": "火箭",
+    "captionZh": "真实摄影 · 火箭",
+    "wordCuesZh": {
+      "rocket": "火箭：观察照片中的火箭"
+    },
+    "author": "Bill Ingalls",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soyuz_TMA-9_launch.jpg",
+    "width": 425,
+    "height": 640,
+    "imageTitle": "Soyuz_TMA-9_launch.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "fdad2f8300701bad60aba99f18ec05b84f0783d9457e3e38d3ef03274f09b255",
+    "attribution": "Soyuz_TMA-9_launch.jpg — Bill Ingalls; Public domain. https://commons.wikimedia.org/wiki/File:Soyuz_TMA-9_launch.jpg"
+  },
+  {
+    "id": "satellite",
+    "file": "satellite.jpg",
+    "words": [
+      "satellite"
+    ],
+    "altZh": "卫星",
+    "captionZh": "真实摄影 · 卫星",
+    "wordCuesZh": {
+      "satellite": "卫星：观察照片中的卫星"
+    },
+    "author": "NASA",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Two_3U_CubeSats.jpg",
+    "width": 640,
+    "height": 480,
+    "imageTitle": "Two_3U_CubeSats.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "2847b71524a6a90c62f9f0f11a99b74e187d8c31d8a4775ef69e6b64dc9aedbb",
+    "attribution": "Two_3U_CubeSats.jpg — NASA; Public domain. https://commons.wikimedia.org/wiki/File:Two_3U_CubeSats.jpg"
+  },
+  {
+    "id": "submarine",
+    "file": "submarine.jpg",
+    "words": [
+      "submarine",
+      "naval"
+    ],
+    "altZh": "潜水艇",
+    "captionZh": "真实摄影 · 潜水艇",
+    "wordCuesZh": {
+      "submarine": "潜水艇：观察照片中的潜水艇",
+      "naval": "海军的：图中为美国海军潜艇"
+    },
+    "author": "U.S. Navy photo by General Dynamics Electric Boat",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:US_Navy_040730-N-1234E-002_PCU_Virginia_(SSN_774)_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg",
+    "width": 640,
+    "height": 512,
+    "imageTitle": "US_Navy_040730-N-1234E-002_PCU_Virginia_(SSN_774)_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "bbc8660844c253cc872608c09fd39eeba57032e812d427f5641d71449071432d",
+    "attribution": "US_Navy_040730-N-1234E-002_PCU_Virginia_(SSN_774)_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg — U.S. Navy photo by General Dynamics Electric Boat; Public domain. https://commons.wikimedia.org/wiki/File:US_Navy_040730-N-1234E-002_PCU_Virginia_(SSN_774)_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg"
+  },
+  {
+    "id": "wrench",
+    "file": "wrench.jpg",
+    "words": [
+      "wrench"
+    ],
+    "altZh": "扳手",
+    "captionZh": "真实摄影 · 扳手",
+    "wordCuesZh": {
+      "wrench": "扳手：观察照片中的扳手"
+    },
+    "author": "Lucasbosch",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gedore_No._7_combination_wrenches_6%E2%80%9319_mm.jpg",
+    "width": 388,
+    "height": 640,
+    "imageTitle": "Gedore_No._7_combination_wrenches_6–19_mm.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "3ef078188f76ebdad68d725e1fd1a608273aad0906c0f4a5f81f2b5effe9168c",
+    "attribution": "Gedore_No._7_combination_wrenches_6–19_mm.jpg — Lucasbosch; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Gedore_No._7_combination_wrenches_6%E2%80%9319_mm.jpg"
+  },
+  {
+    "id": "chess",
+    "file": "chess.jpg",
+    "words": [
+      "chess"
+    ],
+    "altZh": "国际象棋",
+    "captionZh": "真实摄影 · 国际象棋",
+    "wordCuesZh": {
+      "chess": "国际象棋：观察照片中的国际象棋"
+    },
+    "author": "Alan Light",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ChessSet.jpg",
+    "width": 640,
+    "height": 589,
+    "imageTitle": "ChessSet.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "524cc909f4791d1f2e3087ab6d026fd417e26ef1385355a534789b00d4d29b5d",
+    "attribution": "ChessSet.jpg — Alan Light; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:ChessSet.jpg"
+  },
+  {
+    "id": "balloon",
+    "file": "balloon.jpg",
+    "words": [
+      "balloon"
+    ],
+    "altZh": "气球",
+    "captionZh": "真实摄影 · 气球",
+    "wordCuesZh": {
+      "balloon": "气球：观察照片中的气球"
+    },
+    "author": "Photographer: Warren Denning. Creative Director: Stan Weir. Marketing Director: Tim Vlamis",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Congrats_bqt.jpg",
+    "width": 423,
+    "height": 640,
+    "imageTitle": "Congrats_bqt.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "0ac90f411fa2d8bf34531b42d4974b13fa245433177de2a05b0e64a6ca514fd3",
+    "attribution": "Congrats_bqt.jpg — Photographer: Warren Denning. Creative Director: Stan Weir. Marketing Director: Tim Vlamis; Public domain. https://commons.wikimedia.org/wiki/File:Congrats_bqt.jpg"
+  },
+  {
+    "id": "puzzle",
+    "file": "puzzle.jpg",
+    "words": [
+      "puzzle"
+    ],
+    "altZh": "拼图",
+    "captionZh": "真实摄影 · 拼图",
+    "wordCuesZh": {
+      "puzzle": "拼图：观察照片中的拼图"
+    },
+    "author": "Lpele",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Set_of_various_puzzles.jpg",
+    "width": 640,
+    "height": 385,
+    "imageTitle": "Set_of_various_puzzles.jpg",
+    "changes": "Resized to maximum 640 pixels; converted to JPEG.",
+    "sha256": "4e0eff210593c22c21325aff9f8e378fcd31b1aea3f520d0f6d1af76dc4d5ea9",
+    "attribution": "Set_of_various_puzzles.jpg — Lpele; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Set_of_various_puzzles.jpg"
+  }
+]

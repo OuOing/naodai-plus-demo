@@ -1,0 +1,51 @@
+{
+  "candidateCount": 19097,
+  "candidateUniqueCount": 7836,
+  "rawTrackCounts": {
+    "postgrad": 4801,
+    "cet4": 3849,
+    "cet6": 5407,
+    "ielts": 5040
+  },
+  "includedTrackCounts": {
+    "postgrad": 4801,
+    "cet4": 3849,
+    "cet6": 5407,
+    "ielts": 5038
+  },
+  "excludedUniqueCount": 2,
+  "reasonCounts": {
+    "mismatched_chinese_gloss": 2
+  },
+  "excluded": [
+    {
+      "sourceWord": "rivers",
+      "sourceTags": [
+        "ielts"
+      ],
+      "tracks": [
+        "ielts"
+      ],
+      "reason": "mismatched_chinese_gloss",
+      "detail": "Source English definition and exchange identify the plural of river, but the Chinese gloss primarily describes a person/place and does not give the ordinary river plural meaning. Excluded rather than inventing a correction.",
+      "sourceTranslation": "n. 里弗斯（人名）；河流州（尼日利亚州名）；河水钻",
+      "sourceDefinition": "n a large natural stream of water (larger than a creek)",
+      "sourceExchange": "0:river/1:s"
+    },
+    {
+      "sourceWord": "topics",
+      "sourceTags": [
+        "ielts"
+      ],
+      "tracks": [
+        "ielts"
+      ],
+      "reason": "mismatched_chinese_gloss",
+      "detail": "Source English definition and exchange identify the plural of topic, but the Chinese gloss gives only a computing acronym. Excluded rather than inventing a correction.",
+      "sourceTranslation": "abbr. 总联机程序和信息控制系统（Total On-line Program and Information Control System）",
+      "sourceDefinition": "n the subject matter of a conversation or discussion\\nn some situation or event that is thought about",
+      "sourceExchange": "0:topic/1:s"
+    }
+  ],
+  "policy": "No source rows outside requested tags are candidates. No general proper-noun, lowercase-only, phonetic-required, minimum-length, frequency, or count-cap filter is applied."
+}
